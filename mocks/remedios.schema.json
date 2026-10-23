@@ -1,0 +1,152 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://medguia.local/schemas/remedios.schema.json",
+  "title": "MedGuia - Mock de remédios",
+  "description": "Estrutura do catálogo de remédios com bula simplificada usado pelo front-end do MedGuia.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["geradoEm", "total", "remedios"],
+  "properties": {
+    "geradoEm": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Data de geração do mock em ISO 8601."
+    },
+    "total": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Quantidade de itens em `remedios` (conferida pelo validar-mock.js)."
+    },
+    "remedios": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/remedio" }
+    }
+  },
+  "$defs": {
+    "textoCurto": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 40
+    },
+    "remedio": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "nome",
+        "subtitulo",
+        "principioAtivo",
+        "categoria",
+        "tipoVenda",
+        "tarja",
+        "resumo",
+        "abas",
+        "fonte",
+        "controle"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+          "description": "Slug minúsculo, sem acento e sem espaço."
+        },
+        "nome": { "$ref": "#/$defs/textoCurto" },
+        "subtitulo": { "$ref": "#/$defs/textoCurto" },
+        "principioAtivo": { "type": "string", "minLength": 1 },
+        "categoria": {
+          "enum": [
+            "analgesico",
+            "antibiotico",
+            "anti_inflamatorio",
+            "antialergico",
+            "gastro",
+            "antigripal",
+            "outro"
+          ]
+        },
+        "tipoVenda": { "enum": ["livre", "receita"] },
+        "tarja": { "enum": ["sem_tarja", "vermelha", "vermelha_retencao", "preta"] },
+        "resumo": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["paraQueServe", "comoTomar"],
+          "properties": {
+            "paraQueServe": { "type": "string", "minLength": 1, "maxLength": 70 },
+            "comoTomar": { "type": "string", "minLength": 1, "maxLength": 70 }
+          }
+        },
+        "abas": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["indicacoes", "contraindicacoes", "efeitosColaterais"],
+          "properties": {
+            "indicacoes": { "$ref": "#/$defs/aba" },
+            "contraindicacoes": { "$ref": "#/$defs/aba" },
+            "efeitosColaterais": { "$ref": "#/$defs/aba" }
+          }
+        },
+        "fonte": { "type": "string", "format": "uri" },
+        "controle": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["responsavel", "status", "revisadoPor"],
+          "properties": {
+            "responsavel": { "type": "string", "minLength": 1 },
+            "status": { "enum": ["rascunho", "pronto", "revisado"] },
+            "revisadoPor": { "type": ["string", "null"], "minLength": 1 }
+          }
+        }
+      },
+      "allOf": [
+        {
+          "description": "Venda livre é sempre sem tarja.",
+          "if": { "properties": { "tipoVenda": { "const": "livre" } } },
+          "then": { "properties": { "tarja": { "const": "sem_tarja" } } }
+        },
+        {
+          "description": "Remédio com tarja exige receita.",
+          "if": { "properties": { "tarja": { "enum": ["vermelha", "vermelha_retencao", "preta"] } } },
+          "then": { "properties": { "tipoVenda": { "const": "receita" } } }
+        },
+        {
+          "description": "Antibióticos têm tarja vermelha com retenção de receita.",
+          "if": { "properties": { "categoria": { "const": "antibiotico" } } },
+          "then": { "properties": { "tarja": { "const": "vermelha_retencao" } } }
+        }
+      ]
+    },
+    "aba": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["pergunta", "texto", "alerta", "infos", "nota"],
+      "properties": {
+        "pergunta": { "type": "string", "minLength": 1, "maxLength": 60 },
+        "texto": { "type": "string", "minLength": 1, "maxLength": 400 },
+        "alerta": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["titulo", "texto"],
+          "properties": {
+            "titulo": { "type": "string", "minLength": 1, "maxLength": 40 },
+            "texto": { "type": "string", "minLength": 1, "maxLength": 280 }
+          }
+        },
+        "infos": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 3,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["rotulo", "valor"],
+            "properties": {
+              "rotulo": { "type": "string", "minLength": 1, "maxLength": 20 },
+              "valor": { "type": "string", "minLength": 1, "maxLength": 80 }
+            }
+          }
+        },
+        "nota": { "type": ["string", "null"], "minLength": 1, "maxLength": 200 }
+      }
+    }
+  }
+}

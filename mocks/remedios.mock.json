@@ -1,0 +1,502 @@
+{
+  "geradoEm": "2026-10-23T12:00:00+00:00",
+  "total": 8,
+  "remedios": [
+    {
+      "id": "dipirona",
+      "nome": "Dipirona Monoidratada",
+      "subtitulo": "Analgésico e Antipirético",
+      "principioAtivo": "Dipirona monoidratada",
+      "categoria": "analgesico",
+      "tipoVenda": "livre",
+      "tarja": "sem_tarja",
+      "resumo": {
+        "paraQueServe": "Alivia dor e ajuda a baixar a febre.",
+        "comoTomar": "Adultos: 500 mg a 1 g, até 4x ao dia."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve a Dipirona?",
+          "texto": "Sabe aquela dor de cabeça chata, dor no corpo ou febre que não quer baixar? A dipirona é uma das mais usadas no Brasil pra isso. Ela alivia dores leves a moderadas e ajuda a baixar a febre, e costuma começar a agir entre 30 e 60 minutos.",
+          "alerta": {
+            "titulo": "Fica de olho",
+            "texto": "Se a febre durar mais de 3 dias ou a dor mais de 5, não insiste no remédio: procura um médico."
+          },
+          "infos": [
+            { "rotulo": "Apresentação", "valor": "Comprimido de 500 mg ou 1 g e gotas" },
+            { "rotulo": "Pra quem", "valor": "Adultos e crianças (dose de criança é pelo peso)" },
+            { "rotulo": "Como usar", "valor": "Pela boca, com um copo de água" }
+          ],
+          "nota": "A dose muda conforme idade e peso. Na dúvida, pergunta pro farmacêutico."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "Nem todo mundo pode usar dipirona. Antes de tomar, vale conferir se você se encaixa em algum desses casos.",
+          "alerta": {
+            "titulo": "Não toma se...",
+            "texto": "Você já teve alergia à dipirona ou a remédios da mesma família (pirazolonas), ou já teve algum problema nas células do sangue, como agranulocitose."
+          },
+          "infos": [
+            { "rotulo": "Alergia", "valor": "Quem já teve reação à dipirona ou parecidos" },
+            { "rotulo": "Sangue", "valor": "Quem tem ou já teve alteração no sangue" },
+            { "rotulo": "Gravidez", "valor": "Evitar nos 3 últimos meses e na amamentação" }
+          ],
+          "nota": "Tem asma que piora com analgésico? Conversa com o médico antes."
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Na maioria das vezes, não dá nada. Mas, como todo remédio, a dipirona pode causar algumas reações em certas pessoas.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Febre alta do nada, dor de garganta forte, feridas na boca, manchas roxas na pele ou falta de ar. Pode ser uma reação mais séria."
+          },
+          "infos": [
+            { "rotulo": "Mais comuns", "valor": "Pressão baixa e tontura" },
+            { "rotulo": "Na pele", "valor": "Coceira ou manchas vermelhas" },
+            { "rotulo": "O que fazer", "valor": "Parar o remédio e procurar ajuda" }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "revisado",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "amoxicilina",
+      "nome": "Amoxicilina",
+      "subtitulo": "Antibiótico",
+      "principioAtivo": "Amoxicilina tri-hidratada",
+      "categoria": "antibiotico",
+      "tipoVenda": "receita",
+      "tarja": "vermelha_retencao",
+      "resumo": {
+        "paraQueServe": "Trata infecções causadas por bactérias.",
+        "comoTomar": "Adultos: em geral 500 mg a cada 8 horas, pelo tempo da receita."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve a Amoxicilina?",
+          "texto": "A amoxicilina é um antibiótico da família das penicilinas. Ela combate infecções causadas por bactérias, tipo amigdalite, otite, sinusite e infecção urinária. Importante: ela não funciona contra vírus, então não adianta pra gripe ou resfriado comum.",
+          "alerta": {
+            "titulo": "Vai até o fim do tratamento",
+            "texto": "Mesmo se você melhorar em 2 ou 3 dias, toma pelo tempo que o médico mandou (geralmente 7 a 10 dias). Parar antes ajuda a criar bactérias resistentes."
+          },
+          "infos": [
+            { "rotulo": "Apresentação", "valor": "Cápsula de 500 mg e suspensão (líquido) pra crianças" },
+            { "rotulo": "Pra quem", "valor": "Adultos e crianças, sempre com receita" },
+            { "rotulo": "Como usar", "valor": "Pela boca, de 8 em 8 horas, com ou sem comida" }
+          ],
+          "nota": "A farmácia fica com uma via da receita. A dose de criança é calculada pelo peso, até no máximo a dose de adulto."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "A amoxicilina é bem tolerada pela maioria das pessoas, mas tem gente que não pode usar de jeito nenhum. Confere antes:",
+          "alerta": {
+            "titulo": "Não toma se...",
+            "texto": "Você já teve alergia a penicilina, amoxicilina, ampicilina ou a outro antibiótico parecido (como as cefalosporinas). A reação pode ser grave."
+          },
+          "infos": [
+            { "rotulo": "Alergia", "valor": "Quem já reagiu a penicilinas ou cefalosporinas" },
+            { "rotulo": "Mononucleose", "valor": "Pode causar manchas na pele: avisa o médico" },
+            { "rotulo": "Rins", "valor": "Quem tem problema nos rins pode precisar de dose menor" }
+          ],
+          "nota": "Usa anticoncepcional ou anticoagulante? Conta pro médico, porque pode ter interação."
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "O mais comum é mexer com o intestino, porque o antibiótico também afeta as bactérias boas da flora. Geralmente é leve e passa quando o tratamento acaba.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Inchaço no rosto ou na garganta, falta de ar, manchas que se espalham pela pele ou diarreia forte com sangue. Pode ser alergia ou uma infecção intestinal séria."
+          },
+          "infos": [
+            { "rotulo": "Mais comuns", "valor": "Diarreia, enjoo e manchas leves na pele" },
+            { "rotulo": "Às vezes", "valor": "Candidíase (coceira na região íntima ou na boca)" },
+            { "rotulo": "O que fazer", "valor": "Beber bastante água e avisar o médico" }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "revisado",
+        "revisadoPor": "Orientador(a) do projeto"
+      }
+    },
+    {
+      "id": "azitromicina",
+      "nome": "Azitromicina",
+      "subtitulo": "Antibiótico",
+      "principioAtivo": "Azitromicina di-hidratada",
+      "categoria": "antibiotico",
+      "tipoVenda": "receita",
+      "tarja": "vermelha_retencao",
+      "resumo": {
+        "paraQueServe": "Trata infecções respiratórias e outras infecções bacterianas.",
+        "comoTomar": "Adultos: em geral 500 mg 1x ao dia, por 3 dias."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve a Azitromicina?",
+          "texto": "A azitromicina é um antibiótico que fica bastante tempo no corpo, por isso o tratamento costuma ser curto: muitas vezes só 3 ou 5 dias, 1 vez ao dia. É usada em infecções de garganta, ouvido, sinusite, pneumonia e algumas infecções sexualmente transmissíveis.",
+          "alerta": {
+            "titulo": "Não é pra gripe",
+            "texto": "Antibiótico não mata vírus. Usar sem precisar não ajuda a melhorar e ainda deixa as bactérias mais resistentes."
+          },
+          "infos": [
+            { "rotulo": "Apresentação", "valor": "Comprimido de 500 mg e suspensão (líquido)" },
+            { "rotulo": "Pra quem", "valor": "Adultos e crianças, sempre com receita" },
+            { "rotulo": "Como usar", "valor": "1x ao dia, sempre no mesmo horário" }
+          ],
+          "nota": "A farmácia fica com uma via da receita. Toma todos os dias que o médico indicou, mesmo se melhorar antes."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "Antes de começar, vale conferir se você tem alguma dessas condições. Se tiver, o médico pode escolher outro antibiótico.",
+          "alerta": {
+            "titulo": "Não toma se...",
+            "texto": "Você já teve alergia à azitromicina, eritromicina ou claritromicina, ou já teve problema no fígado depois de usar algum desses remédios."
+          },
+          "infos": [
+            { "rotulo": "Alergia", "valor": "Quem já reagiu a macrolídeos (eritromicina e parecidos)" },
+            { "rotulo": "Coração", "valor": "Quem tem arritmia ou usa remédio pro ritmo do coração" },
+            { "rotulo": "Fígado", "valor": "Quem tem doença no fígado precisa de avaliação" }
+          ],
+          "nota": "Antiácido com alumínio ou magnésio atrapalha a absorção: deixa um intervalo de 2 horas."
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Geralmente os efeitos são leves e ligados ao estômago e ao intestino. Eles costumam sumir quando o tratamento termina.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Coração disparado ou batendo fora do ritmo, desmaio, pele ou olhos amarelados, bolhas na pele ou diarreia forte que não passa."
+          },
+          "infos": [
+            { "rotulo": "Mais comuns", "valor": "Diarreia, enjoo e dor na barriga" },
+            { "rotulo": "Às vezes", "valor": "Dor de cabeça e tontura" },
+            { "rotulo": "O que fazer", "valor": "Avisar o médico antes de parar o remédio" }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "pronto",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "nimesulida",
+      "nome": "Nimesulida 100 mg Comprimido de Uso Oral",
+      "subtitulo": "Anti-inflamatório não esteroidal (AINEs)",
+      "principioAtivo": "Nimesulida",
+      "categoria": "anti_inflamatorio",
+      "tipoVenda": "receita",
+      "tarja": "vermelha",
+      "resumo": {
+        "paraQueServe": "Reduz a inflamação, dor e febre, como dor de garganta ou dor de dente.",
+        "comoTomar": "Adultos: 50 a 100 mg 2x ao dia, no máximo 200 mg/dia, por até 15 dias."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve a Nimesulida e em quais casos ela é receitada?",
+          "texto": "A nimesulida é um anti-inflamatório: ela diminui a inflamação, que é o que causa inchaço, vermelhidão e dor. Por isso costuma ser receitada pra dor de garganta, dor de dente, dor pós-cirurgia, cólica menstrual e dores nas articulações. Ela também ajuda a baixar a febre. O efeito começa em uns 30 minutos, mas o tratamento deve ser o mais curto possível, sempre com a menor dose que resolva seu caso.",
+          "alerta": {
+            "titulo": "Não passa dos 15 dias nem dos 200 mg/dia",
+            "texto": "A nimesulida pode sobrecarregar e até machucar o fígado, principalmente em doses altas ou por muito tempo. Não toma mais de 100 mg de uma vez, nem mais de 200 mg ao dia, e não usa por mais de 15 dias seguidos. Se precisar de mais tempo, volta no médico pra ele rever o tratamento."
+          },
+          "infos": [
+            { "rotulo": "Apresentações e dose", "valor": "Comprimido de 100 mg, gotas e granulado; use sempre conforme a receita do médico" },
+            { "rotulo": "Pra quem é indicado?", "valor": "Adultos e maiores de 12 anos. Não é indicada para crianças com menos de 12 anos." },
+            { "rotulo": "Como e quando tomar?", "valor": "Pela boca, depois de comer, com meio copo de água, de 12 em 12 horas, no máximo." }
+          ],
+          "nota": "Esse remédio está aqui com textos no tamanho máximo pra testar o layout. Mesmo assim, as informações seguem a bula: a dose é de 50 a 100 mg, 2x ao dia, sem passar de 200 mg/dia, por no máximo 15 dias."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar a Nimesulida de jeito nenhum, e por quê?",
+          "texto": "A nimesulida é um remédio eficiente, mas tem uma lista longa de pessoas que não podem usar. Isso acontece porque ela age no fígado, no estômago e nos rins, e pode piorar problemas que já existem. Antes de tomar, confere com calma se você se encaixa em alguma das situações abaixo e, se tiver qualquer dúvida, pergunta pro médico ou pro farmacêutico. Melhor perguntar antes do que ter problema depois.",
+          "alerta": {
+            "titulo": "Não toma se tiver algum destes problemas",
+            "texto": "Alergia à nimesulida, à aspirina ou a outros anti-inflamatórios; doença no fígado ou já ter tido problema no fígado por causa de remédio; úlcera ou sangramento no estômago ou nos intestinos; insuficiência grave nos rins ou no coração; gravidez, principalmente nos 3 últimos meses."
+          },
+          "infos": [
+            { "rotulo": "Crianças até 11 anos", "valor": "Não é recomendada para menores de 12 anos, em nenhuma das apresentações vendidas" },
+            { "rotulo": "Bebidas e seu fígado", "valor": "Evitar bebida alcoólica e outros remédios que pesam no fígado durante todo o uso" },
+            { "rotulo": "Outros remédios AINE", "valor": "Não junta com ibuprofeno, diclofenaco ou aspirina, porque o risco aumenta muito." }
+          ],
+          "nota": "Toma anticoagulante, remédio pra pressão, lítio ou diurético? A nimesulida pode interagir com eles. Conta pro médico tudo o que você usa no dia a dia, inclusive chás, vitaminas e suplementos naturais."
+        },
+        "efeitosColaterais": {
+          "pergunta": "Quais efeitos colaterais a Nimesulida pode provocar em você?",
+          "texto": "A maioria das pessoas toma nimesulida sem ter problema, principalmente quando o uso é curto. Os efeitos mais comuns são no estômago, tipo azia, enjoo e diarreia, e tomar depois das refeições ajuda a evitar isso. O que exige mais atenção é o fígado: em casos raros, a nimesulida pode causar uma inflamação séria. Por isso mesmo, conhecer os sinais de alerta é tão importante quanto saber a dose certa.",
+          "alerta": {
+            "titulo": "Para o remédio e procura um médico se...",
+            "texto": "A pele ou o branco dos olhos ficarem amarelados, o xixi ficar bem escuro, aparecer cansaço muito forte, perda de apetite, enjoo que não passa ou dor do lado direito da barriga. Também procura ajuda rápido se tiver fezes pretas, vômitos com sangue, inchaço no rosto ou falta de ar."
+          },
+          "infos": [
+            { "rotulo": "No estômago (comuns)", "valor": "Azia, enjoo, diarreia e dor de estômago, principalmente se tomar sem ter comido." },
+            { "rotulo": "Em parte das pessoas", "valor": "Tonturas, coceira, manchas vermelhas na pele, inchaço nas pernas e pressão alta." },
+            { "rotulo": "Como agir nesse caso", "valor": "Parar o remédio, guardar a caixa e a bula e levar pro médico ou pro farmacêutico" }
+          ],
+          "nota": "Essa lista não tem todos os efeitos colaterais possíveis. A bula oficial é a referência completa e deve ser lida antes de usar. Em caso de dúvida, liga pro Disque-Intoxicação da Anvisa: 0800 722 6001."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "revisado",
+        "revisadoPor": "Orientador(a) do projeto"
+      }
+    },
+    {
+      "id": "loratadina",
+      "nome": "Loratadina",
+      "subtitulo": "Antialérgico",
+      "principioAtivo": "Loratadina",
+      "categoria": "antialergico",
+      "tipoVenda": "livre",
+      "tarja": "sem_tarja",
+      "resumo": {
+        "paraQueServe": "Alivia espirro, coriza, coceira e outros sintomas de alergia.",
+        "comoTomar": "Adultos: 10 mg 1x ao dia, no máximo 10 mg por dia."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve a Loratadina?",
+          "texto": "Sabe aquela crise de rinite com espirro sem parar, nariz escorrendo e olho coçando? A loratadina é um antialérgico que ajuda nisso, e também alivia coceira e vermelhidão na pele por alergia. A vantagem é que ela dá bem menos sono que os antialérgicos mais antigos.",
+          "alerta": {
+            "titulo": "Fica de olho",
+            "texto": "Se os sintomas não melhorarem em alguns dias, ou se tiver falta de ar ou chiado no peito, procura um médico."
+          },
+          "infos": [
+            { "rotulo": "Apresentação", "valor": "Comprimido de 10 mg e xarope" }
+          ],
+          "nota": null
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "A loratadina é bem segura, mas algumas pessoas precisam de cuidado extra antes de usar.",
+          "alerta": {
+            "titulo": "Não toma se...",
+            "texto": "Você já teve alergia à loratadina ou a algum componente da fórmula."
+          },
+          "infos": [
+            { "rotulo": "Fígado", "valor": "Quem tem problema no fígado pode precisar de dose menor" },
+            { "rotulo": "Crianças", "valor": "Menores de 2 anos só com orientação do médico" }
+          ],
+          "nota": null
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Quase sempre não dá nada. Quando aparece algum efeito, ele costuma ser leve.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Inchaço no rosto, coração acelerado ou desmaio."
+          },
+          "infos": [
+            { "rotulo": "Mais comuns", "valor": "Dor de cabeça, sono e boca seca" }
+          ],
+          "nota": null
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "revisado",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "omeprazol",
+      "nome": "Omeprazol",
+      "subtitulo": "Protetor Gástrico",
+      "principioAtivo": "Omeprazol",
+      "categoria": "gastro",
+      "tipoVenda": "receita",
+      "tarja": "vermelha",
+      "resumo": {
+        "paraQueServe": "Diminui a acidez do estômago: azia, refluxo e gastrite.",
+        "comoTomar": "Adultos: 20 mg 1x ao dia em jejum, no máximo 40 mg por dia."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve o Omeprazol?",
+          "texto": "O omeprazol diminui a produção de ácido no estômago. Ele é usado pra tratar azia, refluxo, gastrite e úlcera, e às vezes junto com antibióticos pra eliminar a bactéria H. pylori. Ele não age na hora como um antiácido: o efeito completo aparece depois de alguns dias de uso.",
+          "alerta": {
+            "titulo": "Toma do jeito certo",
+            "texto": "Toma em jejum, uns 30 minutos antes do café da manhã, e engole a cápsula inteira, sem abrir nem mastigar."
+          },
+          "infos": [
+            { "rotulo": "Apresentação", "valor": "Cápsula de 10 mg, 20 mg ou 40 mg" },
+            { "rotulo": "Duração", "valor": "Geralmente 4 a 8 semanas, conforme o médico" },
+            { "rotulo": "Como usar", "valor": "Pela boca, com água, em jejum" }
+          ],
+          "nota": "Azia que volta toda hora merece consulta: pode ser sinal de algo que precisa de investigação."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "O omeprazol é bem tolerado, mas não combina com alguns remédios e situações.",
+          "alerta": {
+            "titulo": "Não toma se...",
+            "texto": "Você já teve alergia ao omeprazol ou a remédios parecidos (como pantoprazol e esomeprazol), ou usa nelfinavir, um remédio pra HIV."
+          },
+          "infos": [
+            { "rotulo": "Interações", "valor": "Pode atrapalhar o clopidogrel: avisa o médico" },
+            { "rotulo": "Gravidez", "valor": "Só com orientação médica" }
+          ],
+          "nota": null
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Na maioria das vezes é bem tranquilo. Quando aparece algum efeito, costuma ser leve e passageiro.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Diarreia forte que não passa, manchas ou bolhas na pele, cãibras ou tremores. Em uso por muitos meses, pode faltar vitamina B12 e magnésio."
+          },
+          "infos": [
+            { "rotulo": "Mais comuns", "valor": "Dor de cabeça, gases, enjoo e diarreia" },
+            { "rotulo": "Uso longo", "valor": "Pode baixar vitamina B12 e magnésio" },
+            { "rotulo": "O que fazer", "valor": "Conversar com o médico antes de parar" }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "antigripal-paracetamol",
+      "nome": "Antigripal com Paracetamol",
+      "subtitulo": "Antigripal",
+      "principioAtivo": "Paracetamol + maleato de clorfeniramina + cloridrato de fenilefrina",
+      "categoria": "antigripal",
+      "tipoVenda": "livre",
+      "tarja": "sem_tarja",
+      "resumo": {
+        "paraQueServe": "Alivia sintomas de gripe: dor, febre, nariz entupido e coriza.",
+        "comoTomar": "Adultos: 1 cápsula a cada 6 horas, no máximo 4 por dia."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve o antigripal?",
+          "texto": "Esse tipo de antigripal junta três remédios numa cápsula só: o paracetamol (pra dor e febre), a clorfeniramina (um antialérgico que segura a coriza) e a fenilefrina (que desentope o nariz). Ele alivia os sintomas, mas não cura a gripe: quem resolve é o seu corpo, com repouso e água.",
+          "alerta": {
+            "titulo": "Cuidado com o paracetamol",
+            "texto": "Não toma junto com outro remédio que tenha paracetamol. Somando tudo, não passa de 4 g de paracetamol por dia, porque isso pode lesar o fígado."
+          },
+          "infos": [
+            { "rotulo": "Apresentação", "valor": "Cápsula com 400 mg de paracetamol" },
+            { "rotulo": "Pra quem", "valor": "Adultos e maiores de 12 anos" },
+            { "rotulo": "Duração", "valor": "No máximo 3 dias seguidos sem falar com o médico" }
+          ],
+          "nota": "Ele pode dar sono. Evita dirigir ou mexer com máquinas até saber como ele age em você."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "Por causa da fenilefrina, que mexe com a pressão, e da clorfeniramina, que dá sono, esse remédio não é pra todo mundo.",
+          "alerta": {
+            "titulo": "Não toma se...",
+            "texto": "Você tem pressão alta, problema no coração, glaucoma, hipertireoidismo, próstata aumentada ou usa antidepressivo do tipo IMAO."
+          },
+          "infos": [
+            { "rotulo": "Pressão", "valor": "Hipertensos devem evitar: a fenilefrina sobe a pressão" },
+            { "rotulo": "Álcool", "valor": "Não combina: aumenta o sono e o risco pro fígado" },
+            { "rotulo": "Gravidez", "valor": "Só com orientação médica" }
+          ],
+          "nota": null
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "O efeito mais comum é sonolência, por causa do antialérgico da fórmula. Também pode deixar a boca seca.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Coração disparado, dor de cabeça muito forte, dificuldade pra fazer xixi, pele ou olhos amarelados ou manchas na pele."
+          },
+          "infos": [
+            { "rotulo": "Mais comuns", "valor": "Sono, boca seca e tontura" },
+            { "rotulo": "Às vezes", "valor": "Nervosismo e dificuldade pra dormir" }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "revisado",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "clonazepam",
+      "nome": "Clonazepam",
+      "subtitulo": "Ansiolítico e Anticonvulsivante",
+      "principioAtivo": "Clonazepam",
+      "categoria": "outro",
+      "tipoVenda": "receita",
+      "tarja": "preta",
+      "resumo": {
+        "paraQueServe": "Trata ansiedade, síndrome do pânico e alguns tipos de convulsão.",
+        "comoTomar": "Só com receita azul: dose do médico, em geral 0,5 a 2 mg por dia."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve o Clonazepam?",
+          "texto": "O clonazepam é um calmante da família dos benzodiazepínicos. Ele é usado em transtornos de ansiedade, síndrome do pânico e alguns tipos de epilepsia. É um remédio controlado: a farmácia só vende com a receita azul, que fica retida.",
+          "alerta": {
+            "titulo": "Pode causar dependência",
+            "texto": "Usa só na dose e pelo tempo que o médico mandou. Nunca para de repente: a retirada tem que ser aos poucos, com acompanhamento."
+          },
+          "infos": [
+            { "rotulo": "Apresentação", "valor": "Comprimido de 0,5 mg ou 2 mg e gotas" },
+            { "rotulo": "Receita", "valor": "Receita azul (B1), retida na farmácia" },
+            { "rotulo": "Como usar", "valor": "Pela boca, nos horários que o médico definiu" }
+          ],
+          "nota": "Não divide nem empresta o remédio. A dose certa pra uma pessoa pode ser perigosa pra outra."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "Por agir direto no sistema nervoso, o clonazepam tem restrições importantes. Confere antes de começar:",
+          "alerta": {
+            "titulo": "Não toma se...",
+            "texto": "Você tem alergia a benzodiazepínicos, glaucoma de ângulo fechado, doença grave no fígado ou problema respiratório grave (como apneia do sono sem tratamento)."
+          },
+          "infos": [
+            { "rotulo": "Álcool", "valor": "Nunca junta: pode deprimir a respiração" },
+            { "rotulo": "Gravidez", "valor": "Só com acompanhamento médico" }
+          ],
+          "nota": "Toma opioide, antidepressivo ou outro calmante? Avisa o médico, porque os efeitos se somam."
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "O mais comum é sono e moleza, principalmente no começo do tratamento. Por isso, evita dirigir até saber como ele age em você.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Sono muito forte, respiração lenta, confusão mental, agitação estranha ou pensamentos de se machucar."
+          },
+          "infos": [
+            { "rotulo": "Mais comuns", "valor": "Sonolência, tontura e falta de coordenação" },
+            { "rotulo": "Às vezes", "valor": "Esquecimento e alteração de humor" },
+            { "rotulo": "O que fazer", "valor": "Falar com o médico, sem parar por conta própria" }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "pronto",
+        "revisadoPor": null
+      }
+    }
+  ]
+}
