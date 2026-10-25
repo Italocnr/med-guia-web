@@ -1,38 +1,32 @@
-import { FileSearch, Pill, ShieldAlert, type LucideIcon } from 'lucide-react'
-
 export interface Artigo {
   id: string
   titulo: string
   resumo: string
-  minutosLeitura: number
-  icone: LucideIcon
-  /** Classes do gradiente da capa. */
-  capa: string
+  /** Quem publicou o artigo original. */
+  fonte: string
+  url: string
 }
 
 export const artigos: Artigo[] = [
   {
     id: 'automedicacao',
-    titulo: 'Perigos da Automedicação',
+    titulo: 'Os perigos da automedicação',
     resumo: 'Entenda os riscos de combinar medicamentos sem orientação profissional.',
-    minutosLeitura: 6,
-    icone: Pill,
-    capa: 'from-indigo-500 via-violet-500 to-sky-400',
+    fonte: 'Conass',
+    url: 'https://www.conass.org.br/no-dia-do-uso-racional-de-medicamentos-conass-alerta-para-os-perigos-da-automedicacao/',
   },
   {
     id: 'ler-bula',
     titulo: 'Como ler uma bula com segurança',
-    resumo: 'Um guia simples para identificar indicações, alertas e interações.',
-    minutosLeitura: 5,
-    icone: FileSearch,
-    capa: 'from-sky-500 via-cyan-500 to-teal-400',
+    resumo: 'Cartilha da Anvisa sobre bulas, uso em crianças, álcool e outros cuidados com medicamentos.',
+    fonte: 'Anvisa (PDF)',
+    url: 'https://www.portovelho.ro.gov.br/uploads/arquivos/2016/11/20985/1480084005cartilha-o-que-devemos-saber-sobre-medicamentos1.pdf',
   },
   {
     id: 'antibioticos',
     titulo: 'Antibióticos: uso responsável',
-    resumo: 'Por que respeitar horários e duração protege você e a comunidade.',
-    minutosLeitura: 7,
-    icone: ShieldAlert,
-    capa: 'from-violet-500 via-purple-500 to-fuchsia-400',
+    resumo: 'Por que o uso errado de antibióticos cria bactérias resistentes, e como prevenir.',
+    fonte: 'Fiocruz (PDF)',
+    url: 'https://ioc.fiocruz.br/sites/default/files/mediaSiteIOCPubliq20230621/resistencia_bacteriana_antibioticos_ioc_fiocruz.pdf',
   },
 ]

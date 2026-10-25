@@ -1,39 +1,42 @@
-import { ArrowRight } from 'lucide-react'
+import { ArrowUpRight } from 'lucide-react'
 import { artigos } from '../../data/artigos'
+
+const BULARIO = 'https://consultas.anvisa.gov.br/#/bulario/'
 
 export function Artigos() {
   return (
-    <section id="artigos" className="scroll-mt-20 bg-white">
-      <div className="mx-auto max-w-6xl px-4 py-16 sm:px-6 sm:py-20">
-        <h2 className="text-3xl font-normal tracking-tight text-ink sm:text-4xl">Artigos e Informações de Saúde</h2>
-        <p className="mt-2 text-sm text-muted">Conteúdo educativo para escolhas mais conscientes.</p>
+    <section id="artigos" className="scroll-mt-20 bg-surface">
+      <div className="mx-auto grid max-w-6xl gap-10 px-4 py-16 sm:px-6 sm:py-20 lg:grid-cols-[18rem_1fr] lg:gap-16">
+        <div>
+          <h2 className="font-serif text-3xl font-semibold tracking-tight text-ink">Para ler mais</h2>
+          <p className="mt-2 text-ink-soft">Materiais de instituições de saúde que serviram de base para o projeto.</p>
+          <p className="mt-6 text-sm leading-relaxed text-muted">
+            A bula completa e oficial de qualquer remédio registrado no Brasil está no{' '}
+            <a href={BULARIO} target="_blank" rel="noreferrer" className="text-brand underline underline-offset-2">
+              Bulário Eletrônico da Anvisa
+            </a>
+            .
+          </p>
+        </div>
 
-        <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {artigos.map(({ id, titulo, resumo, minutosLeitura, icone: Icone, capa }) => (
-            <article
-              key={id}
-              className="group flex flex-col overflow-hidden rounded-2xl border border-line bg-white shadow-sm transition-shadow hover:shadow-md"
-            >
-              <div className={`relative flex h-44 items-center justify-center bg-gradient-to-br ${capa}`}>
-                <div className="absolute inset-0 bg-[radial-gradient(circle_at_30%_20%,rgb(255_255_255/0.35),transparent_55%)]" />
-                <Icone
-                  className="relative size-16 text-white/90 drop-shadow-lg transition-transform group-hover:scale-110"
-                  strokeWidth={1.5}
+        <ul className="divide-y divide-line border-y border-line">
+          {artigos.map(({ id, titulo, resumo, fonte, url }) => (
+            <li key={id}>
+              <a href={url} target="_blank" rel="noreferrer" className="group flex gap-6 py-6">
+                <div className="min-w-0 flex-1">
+                  <p className="text-xs font-medium tracking-wide text-muted uppercase">{fonte}</p>
+                  <h3 className="mt-1 font-serif text-xl font-semibold text-ink group-hover:text-brand">{titulo}</h3>
+                  <p className="mt-1.5 text-sm leading-relaxed text-ink-soft">{resumo}</p>
+                </div>
+                <ArrowUpRight
+                  className="mt-6 size-5 shrink-0 text-muted transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5 group-hover:text-brand"
                   aria-hidden
                 />
-              </div>
-              <div className="flex flex-1 flex-col p-4">
-                <p className="text-[10px] font-medium uppercase text-ink-soft">{minutosLeitura} min de leitura</p>
-                <h3 className="mt-1 text-lg text-ink">{titulo}</h3>
-                <p className="mt-2 flex-1 text-xs leading-relaxed text-muted">{resumo}</p>
-                {/* Os artigos ainda não têm página própria. */}
-                <a href="#artigos" className="mt-3 flex w-fit items-center gap-1 text-xs text-ink hover:text-accent">
-                  Ler artigo <ArrowRight className="size-3" aria-hidden />
-                </a>
-              </div>
-            </article>
+                <span className="sr-only">(abre em nova aba)</span>
+              </a>
+            </li>
           ))}
-        </div>
+        </ul>
       </div>
     </section>
   )
