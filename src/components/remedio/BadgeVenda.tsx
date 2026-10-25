@@ -21,7 +21,7 @@ export function BadgeVenda({ tipoVenda, tarja, tom = 'neutro' }: BadgeVendaProps
 
   return (
     <span
-      className={`inline-flex flex-wrap items-center gap-x-1.5 rounded-2xl px-2.5 py-1 text-xs font-semibold whitespace-nowrap ${estilo}`}
+      className={`inline-flex flex-wrap items-center gap-x-1.5 rounded px-2 py-0.5 text-xs font-semibold whitespace-nowrap ${estilo}`}
     >
       <span className="size-1.5 rounded-full bg-(--ponto)" aria-hidden />
       {TIPO_VENDA_LABEL[tipoVenda]}

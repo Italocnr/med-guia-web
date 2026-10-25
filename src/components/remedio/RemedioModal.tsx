@@ -49,12 +49,12 @@ export function RemedioModal({ remedio, favorito, onAlternarFavorito, onFechar }
       aria-labelledby={tituloId}
       onClose={onFechar}
       onClick={(e) => e.target === e.currentTarget && onFechar()}
-      className="m-auto w-[calc(100%-2rem)] max-w-4xl overflow-hidden rounded-2xl bg-white p-0 text-ink shadow-2xl backdrop:bg-ink/50 backdrop:backdrop-blur-sm"
+      className="m-auto w-[calc(100%-2rem)] max-w-4xl overflow-hidden rounded-lg bg-white p-0 text-ink shadow-2xl backdrop:bg-ink/50"
     >
       <div className="flex max-h-[90dvh] flex-col">
         <header className="flex shrink-0 items-start justify-between gap-4 px-6 pt-7 pb-6 sm:px-8">
           <div className="min-w-0">
-            <h2 id={tituloId} className="text-2xl font-bold tracking-tight break-words sm:text-3xl">
+            <h2 id={tituloId} className="font-serif text-2xl font-semibold tracking-tight break-words sm:text-3xl">
               {remedio.nome}
             </h2>
             <p className="mt-1 text-muted">{remedio.subtitulo}</p>
@@ -93,7 +93,7 @@ export function RemedioModal({ remedio, favorito, onAlternarFavorito, onFechar }
                 onClick={() => setAbaAtiva(a.id)}
                 onKeyDown={(e) => navegarAbas(e, i)}
                 className={`-mb-px shrink-0 border-b-2 py-3.5 text-sm whitespace-nowrap transition-colors ${
-                  ativa ? 'border-ink font-semibold text-ink' : 'border-transparent text-muted hover:text-ink'
+                  ativa ? 'border-brand font-semibold text-ink' : 'border-transparent text-muted hover:text-ink'
                 }`}
               >
                 {a.label}
@@ -109,10 +109,10 @@ export function RemedioModal({ remedio, favorito, onAlternarFavorito, onFechar }
           aria-labelledby={`aba-${abaAtiva}`}
           className="min-h-32 flex-1 overflow-y-auto px-6 py-7 sm:px-8"
         >
-          <h3 className="text-xl font-bold tracking-tight break-words">{aba.pergunta}</h3>
+          <h3 className="font-serif text-xl font-semibold tracking-tight break-words">{aba.pergunta}</h3>
           <p className="mt-4 leading-relaxed text-ink-soft">{aba.texto}</p>
 
-          <div role="note" className="mt-6 flex gap-3 rounded-xl border border-amber-300 bg-amber-50 p-4 sm:p-5">
+          <div role="note" className="mt-6 flex gap-3 rounded-lg border border-amber-300 bg-amber-50 p-4 sm:p-5">
             <AlertTriangle className="mt-0.5 size-5 shrink-0 fill-amber-700 text-amber-50" aria-hidden />
             <div className="min-w-0">
               <p className="font-semibold text-amber-800">{aba.alerta.titulo}</p>
@@ -140,7 +140,7 @@ export function RemedioModal({ remedio, favorito, onAlternarFavorito, onFechar }
             <button
               type="button"
               onClick={onFechar}
-              className="rounded-lg border border-line bg-white px-5 py-3 text-sm font-semibold hover:bg-surface"
+              className="rounded-md border border-line bg-white px-5 py-3 text-sm font-semibold hover:bg-surface"
             >
               Fechar
             </button>
@@ -148,7 +148,7 @@ export function RemedioModal({ remedio, favorito, onAlternarFavorito, onFechar }
               href={remedio.fonte}
               target="_blank"
               rel="noreferrer"
-              className="flex flex-1 items-center justify-center gap-2 rounded-lg bg-ink px-5 py-3 text-sm font-semibold text-white hover:bg-ink-soft sm:flex-none"
+              className="flex flex-1 items-center justify-center gap-2 rounded-md bg-brand px-5 py-3 text-sm font-semibold text-white hover:bg-brand-dark sm:flex-none"
             >
               Consultar bula completa
               <ArrowRight className="size-4" aria-hidden />
