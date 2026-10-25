@@ -11,8 +11,7 @@
       "tipoVenda": "livre",
       "tarja": "sem_tarja",
       "resumo": {
-        "paraQueServe": "Alivia dor e ajuda a baixar a febre.",
-        "comoTomar": "Adultos: 500 mg a 1 g, até 4x ao dia."
+        "paraQueServe": "Alivia dor e ajuda a baixar a febre."
       },
       "abas": {
         "indicacoes": {
@@ -24,16 +23,15 @@
           },
           "infos": [
             { "rotulo": "Apresentação", "valor": "Comprimido de 500 mg ou 1 g e gotas" },
-            { "rotulo": "Pra quem", "valor": "Adultos e crianças (dose de criança é pelo peso)" },
-            { "rotulo": "Como usar", "valor": "Pela boca, com um copo de água" }
+            { "rotulo": "Pra quem", "valor": "Adultos e crianças, conforme orientação" }
           ],
-          "nota": "A dose muda conforme idade e peso. Na dúvida, pergunta pro farmacêutico."
+          "nota": "Na dúvida, pergunta pro farmacêutico ou pro médico antes de usar."
         },
         "contraindicacoes": {
           "pergunta": "Quem não deve tomar?",
           "texto": "Nem todo mundo pode usar dipirona. Antes de tomar, vale conferir se você se encaixa em algum desses casos.",
           "alerta": {
-            "titulo": "Não toma se...",
+            "titulo": "Não tomar se...",
             "texto": "Você já teve alergia à dipirona ou a remédios da mesma família (pirazolonas), ou já teve algum problema nas células do sangue, como agranulocitose."
           },
           "infos": [
@@ -74,8 +72,7 @@
       "tipoVenda": "receita",
       "tarja": "vermelha_retencao",
       "resumo": {
-        "paraQueServe": "Trata infecções causadas por bactérias.",
-        "comoTomar": "Adultos: em geral 500 mg a cada 8 horas, pelo tempo da receita."
+        "paraQueServe": "Trata infecções causadas por bactérias."
       },
       "abas": {
         "indicacoes": {
@@ -87,16 +84,15 @@
           },
           "infos": [
             { "rotulo": "Apresentação", "valor": "Cápsula de 500 mg e suspensão (líquido) pra crianças" },
-            { "rotulo": "Pra quem", "valor": "Adultos e crianças, sempre com receita" },
-            { "rotulo": "Como usar", "valor": "Pela boca, de 8 em 8 horas, com ou sem comida" }
+            { "rotulo": "Pra quem", "valor": "Adultos e crianças, sempre com receita" }
           ],
-          "nota": "A farmácia fica com uma via da receita. A dose de criança é calculada pelo peso, até no máximo a dose de adulto."
+          "nota": "A farmácia fica com uma via da receita."
         },
         "contraindicacoes": {
           "pergunta": "Quem não deve tomar?",
           "texto": "A amoxicilina é bem tolerada pela maioria das pessoas, mas tem gente que não pode usar de jeito nenhum. Confere antes:",
           "alerta": {
-            "titulo": "Não toma se...",
+            "titulo": "Não tomar se...",
             "texto": "Você já teve alergia a penicilina, amoxicilina, ampicilina ou a outro antibiótico parecido (como as cefalosporinas). A reação pode ser grave."
           },
           "infos": [
@@ -137,8 +133,7 @@
       "tipoVenda": "receita",
       "tarja": "vermelha_retencao",
       "resumo": {
-        "paraQueServe": "Trata infecções respiratórias e outras infecções bacterianas.",
-        "comoTomar": "Adultos: em geral 500 mg 1x ao dia, por 3 dias."
+        "paraQueServe": "Trata infecções respiratórias e outras infecções bacterianas."
       },
       "abas": {
         "indicacoes": {
@@ -150,8 +145,7 @@
           },
           "infos": [
             { "rotulo": "Apresentação", "valor": "Comprimido de 500 mg e suspensão (líquido)" },
-            { "rotulo": "Pra quem", "valor": "Adultos e crianças, sempre com receita" },
-            { "rotulo": "Como usar", "valor": "1x ao dia, sempre no mesmo horário" }
+            { "rotulo": "Pra quem", "valor": "Adultos e crianças, sempre com receita" }
           ],
           "nota": "A farmácia fica com uma via da receita. Toma todos os dias que o médico indicou, mesmo se melhorar antes."
         },
@@ -159,7 +153,7 @@
           "pergunta": "Quem não deve tomar?",
           "texto": "Antes de começar, vale conferir se você tem alguma dessas condições. Se tiver, o médico pode escolher outro antibiótico.",
           "alerta": {
-            "titulo": "Não toma se...",
+            "titulo": "Não tomar se...",
             "texto": "Você já teve alergia à azitromicina, eritromicina ou claritromicina, ou já teve problema no fígado depois de usar algum desses remédios."
           },
           "infos": [
@@ -167,7 +161,7 @@
             { "rotulo": "Coração", "valor": "Quem tem arritmia ou usa remédio pro ritmo do coração" },
             { "rotulo": "Fígado", "valor": "Quem tem doença no fígado precisa de avaliação" }
           ],
-          "nota": "Antiácido com alumínio ou magnésio atrapalha a absorção: deixa um intervalo de 2 horas."
+          "nota": "Antiácido com alumínio ou magnésio atrapalha a absorção. Conta pro médico se você usa."
         },
         "efeitosColaterais": {
           "pergunta": "Pode dar algum efeito colateral?",
@@ -200,29 +194,27 @@
       "tipoVenda": "receita",
       "tarja": "vermelha",
       "resumo": {
-        "paraQueServe": "Reduz a inflamação, dor e febre, como dor de garganta ou dor de dente.",
-        "comoTomar": "Adultos: 50 a 100 mg 2x ao dia, no máximo 200 mg/dia, por até 15 dias."
+        "paraQueServe": "Reduz a inflamação, dor e febre, como dor de garganta ou dor de dente."
       },
       "abas": {
         "indicacoes": {
           "pergunta": "Pra que serve a Nimesulida e em quais casos ela é receitada?",
-          "texto": "A nimesulida é um anti-inflamatório: ela diminui a inflamação, que é o que causa inchaço, vermelhidão e dor. Por isso costuma ser receitada pra dor de garganta, dor de dente, dor pós-cirurgia, cólica menstrual e dores nas articulações. Ela também ajuda a baixar a febre. O efeito começa em uns 30 minutos, mas o tratamento deve ser o mais curto possível, sempre com a menor dose que resolva seu caso.",
+          "texto": "A nimesulida é um anti-inflamatório: ela diminui a inflamação, que é o que causa inchaço, vermelhidão e dor. Por isso costuma ser receitada pra dor de garganta, dor de dente, dor pós-cirurgia, cólica menstrual e dores nas articulações. Ela também ajuda a baixar a febre. O efeito começa em uns 30 minutos, mas o tratamento deve ser o mais curto possível e sempre acompanhado pelo médico.",
           "alerta": {
-            "titulo": "Não passa dos 15 dias nem dos 200 mg/dia",
-            "texto": "A nimesulida pode sobrecarregar e até machucar o fígado, principalmente em doses altas ou por muito tempo. Não toma mais de 100 mg de uma vez, nem mais de 200 mg ao dia, e não usa por mais de 15 dias seguidos. Se precisar de mais tempo, volta no médico pra ele rever o tratamento."
+            "titulo": "Cuidado com o fígado e o estômago",
+            "texto": "A nimesulida pode sobrecarregar e até machucar o fígado, principalmente em doses altas ou por muito tempo. Respeita sempre o que está na receita e não aumenta a quantidade por conta própria. Se a dor continuar, volta no médico pra ele rever o tratamento."
           },
           "infos": [
-            { "rotulo": "Apresentações e dose", "valor": "Comprimido de 100 mg, gotas e granulado; use sempre conforme a receita do médico" },
-            { "rotulo": "Pra quem é indicado?", "valor": "Adultos e maiores de 12 anos. Não é indicada para crianças com menos de 12 anos." },
-            { "rotulo": "Como e quando tomar?", "valor": "Pela boca, depois de comer, com meio copo de água, de 12 em 12 horas, no máximo." }
+            { "rotulo": "Apresentações", "valor": "Comprimido de 100 mg, gotas e granulado; use sempre conforme a receita do médico" },
+            { "rotulo": "Pra quem é indicado?", "valor": "Adultos e maiores de 12 anos. Não é indicada para crianças com menos de 12 anos." }
           ],
-          "nota": "Esse remédio está aqui com textos no tamanho máximo pra testar o layout. Mesmo assim, as informações seguem a bula: a dose é de 50 a 100 mg, 2x ao dia, sem passar de 200 mg/dia, por no máximo 15 dias."
+          "nota": "Esse remédio está aqui com textos no tamanho máximo pra testar o layout. Mesmo assim, as informações seguem a bula oficial, que é sempre a referência completa sobre o remédio."
         },
         "contraindicacoes": {
           "pergunta": "Quem não deve tomar a Nimesulida de jeito nenhum, e por quê?",
           "texto": "A nimesulida é um remédio eficiente, mas tem uma lista longa de pessoas que não podem usar. Isso acontece porque ela age no fígado, no estômago e nos rins, e pode piorar problemas que já existem. Antes de tomar, confere com calma se você se encaixa em alguma das situações abaixo e, se tiver qualquer dúvida, pergunta pro médico ou pro farmacêutico. Melhor perguntar antes do que ter problema depois.",
           "alerta": {
-            "titulo": "Não toma se tiver algum destes problemas",
+            "titulo": "Não tomar se...",
             "texto": "Alergia à nimesulida, à aspirina ou a outros anti-inflamatórios; doença no fígado ou já ter tido problema no fígado por causa de remédio; úlcera ou sangramento no estômago ou nos intestinos; insuficiência grave nos rins ou no coração; gravidez, principalmente nos 3 últimos meses."
           },
           "infos": [
@@ -234,13 +226,13 @@
         },
         "efeitosColaterais": {
           "pergunta": "Quais efeitos colaterais a Nimesulida pode provocar em você?",
-          "texto": "A maioria das pessoas toma nimesulida sem ter problema, principalmente quando o uso é curto. Os efeitos mais comuns são no estômago, tipo azia, enjoo e diarreia, e tomar depois das refeições ajuda a evitar isso. O que exige mais atenção é o fígado: em casos raros, a nimesulida pode causar uma inflamação séria. Por isso mesmo, conhecer os sinais de alerta é tão importante quanto saber a dose certa.",
+          "texto": "A maioria das pessoas toma nimesulida sem ter problema, principalmente quando o uso é curto. Os efeitos mais comuns são no estômago, tipo azia, enjoo e diarreia. O que exige mais atenção é o fígado: em casos raros, a nimesulida pode causar uma inflamação séria. Por isso mesmo, conhecer os sinais de alerta é tão importante quanto seguir a receita.",
           "alerta": {
             "titulo": "Para o remédio e procura um médico se...",
             "texto": "A pele ou o branco dos olhos ficarem amarelados, o xixi ficar bem escuro, aparecer cansaço muito forte, perda de apetite, enjoo que não passa ou dor do lado direito da barriga. Também procura ajuda rápido se tiver fezes pretas, vômitos com sangue, inchaço no rosto ou falta de ar."
           },
           "infos": [
-            { "rotulo": "No estômago (comuns)", "valor": "Azia, enjoo, diarreia e dor de estômago, principalmente se tomar sem ter comido." },
+            { "rotulo": "No estômago (comuns)", "valor": "Azia, enjoo, diarreia e dor de estômago." },
             { "rotulo": "Em parte das pessoas", "valor": "Tonturas, coceira, manchas vermelhas na pele, inchaço nas pernas e pressão alta." },
             { "rotulo": "Como agir nesse caso", "valor": "Parar o remédio, guardar a caixa e a bula e levar pro médico ou pro farmacêutico" }
           ],
@@ -263,8 +255,7 @@
       "tipoVenda": "livre",
       "tarja": "sem_tarja",
       "resumo": {
-        "paraQueServe": "Alivia espirro, coriza, coceira e outros sintomas de alergia.",
-        "comoTomar": "Adultos: 10 mg 1x ao dia, no máximo 10 mg por dia."
+        "paraQueServe": "Alivia espirro, coriza, coceira e outros sintomas de alergia."
       },
       "abas": {
         "indicacoes": {
@@ -283,7 +274,7 @@
           "pergunta": "Quem não deve tomar?",
           "texto": "A loratadina é bem segura, mas algumas pessoas precisam de cuidado extra antes de usar.",
           "alerta": {
-            "titulo": "Não toma se...",
+            "titulo": "Não tomar se...",
             "texto": "Você já teve alergia à loratadina ou a algum componente da fórmula."
           },
           "infos": [
@@ -321,21 +312,19 @@
       "tipoVenda": "receita",
       "tarja": "vermelha",
       "resumo": {
-        "paraQueServe": "Diminui a acidez do estômago: azia, refluxo e gastrite.",
-        "comoTomar": "Adultos: 20 mg 1x ao dia em jejum, no máximo 40 mg por dia."
+        "paraQueServe": "Diminui a acidez do estômago: azia, refluxo e gastrite."
       },
       "abas": {
         "indicacoes": {
           "pergunta": "Pra que serve o Omeprazol?",
           "texto": "O omeprazol diminui a produção de ácido no estômago. Ele é usado pra tratar azia, refluxo, gastrite e úlcera, e às vezes junto com antibióticos pra eliminar a bactéria H. pylori. Ele não age na hora como um antiácido: o efeito completo aparece depois de alguns dias de uso.",
           "alerta": {
-            "titulo": "Toma do jeito certo",
-            "texto": "Toma em jejum, uns 30 minutos antes do café da manhã, e engole a cápsula inteira, sem abrir nem mastigar."
+            "titulo": "Observações importantes",
+            "texto": "O uso frequente por conta própria pode esconder doenças que precisam de investigação. Azia que volta toda hora merece consulta."
           },
           "infos": [
             { "rotulo": "Apresentação", "valor": "Cápsula de 10 mg, 20 mg ou 40 mg" },
-            { "rotulo": "Duração", "valor": "Geralmente 4 a 8 semanas, conforme o médico" },
-            { "rotulo": "Como usar", "valor": "Pela boca, com água, em jejum" }
+            { "rotulo": "Pra quem", "valor": "Adultos e crianças, conforme orientação médica" }
           ],
           "nota": "Azia que volta toda hora merece consulta: pode ser sinal de algo que precisa de investigação."
         },
@@ -343,7 +332,7 @@
           "pergunta": "Quem não deve tomar?",
           "texto": "O omeprazol é bem tolerado, mas não combina com alguns remédios e situações.",
           "alerta": {
-            "titulo": "Não toma se...",
+            "titulo": "Não tomar se...",
             "texto": "Você já teve alergia ao omeprazol ou a remédios parecidos (como pantoprazol e esomeprazol), ou usa nelfinavir, um remédio pra HIV."
           },
           "infos": [
@@ -383,8 +372,7 @@
       "tipoVenda": "livre",
       "tarja": "sem_tarja",
       "resumo": {
-        "paraQueServe": "Alivia sintomas de gripe: dor, febre, nariz entupido e coriza.",
-        "comoTomar": "Adultos: 1 cápsula a cada 6 horas, no máximo 4 por dia."
+        "paraQueServe": "Alivia sintomas de gripe: dor, febre, nariz entupido e coriza."
       },
       "abas": {
         "indicacoes": {
@@ -392,12 +380,12 @@
           "texto": "Esse tipo de antigripal junta três remédios numa cápsula só: o paracetamol (pra dor e febre), a clorfeniramina (um antialérgico que segura a coriza) e a fenilefrina (que desentope o nariz). Ele alivia os sintomas, mas não cura a gripe: quem resolve é o seu corpo, com repouso e água.",
           "alerta": {
             "titulo": "Cuidado com o paracetamol",
-            "texto": "Não toma junto com outro remédio que tenha paracetamol. Somando tudo, não passa de 4 g de paracetamol por dia, porque isso pode lesar o fígado."
+            "texto": "Não toma junto com outro remédio que tenha paracetamol: somar os dois pode passar do limite seguro e lesar o fígado."
           },
           "infos": [
             { "rotulo": "Apresentação", "valor": "Cápsula com 400 mg de paracetamol" },
             { "rotulo": "Pra quem", "valor": "Adultos e maiores de 12 anos" },
-            { "rotulo": "Duração", "valor": "No máximo 3 dias seguidos sem falar com o médico" }
+            { "rotulo": "Atenção", "valor": "Sintomas que não melhoram pedem avaliação médica" }
           ],
           "nota": "Ele pode dar sono. Evita dirigir ou mexer com máquinas até saber como ele age em você."
         },
@@ -405,7 +393,7 @@
           "pergunta": "Quem não deve tomar?",
           "texto": "Por causa da fenilefrina, que mexe com a pressão, e da clorfeniramina, que dá sono, esse remédio não é pra todo mundo.",
           "alerta": {
-            "titulo": "Não toma se...",
+            "titulo": "Não tomar se...",
             "texto": "Você tem pressão alta, problema no coração, glaucoma, hipertireoidismo, próstata aumentada ou usa antidepressivo do tipo IMAO."
           },
           "infos": [
@@ -445,8 +433,7 @@
       "tipoVenda": "receita",
       "tarja": "preta",
       "resumo": {
-        "paraQueServe": "Trata ansiedade, síndrome do pânico e alguns tipos de convulsão.",
-        "comoTomar": "Só com receita azul: dose do médico, em geral 0,5 a 2 mg por dia."
+        "paraQueServe": "Trata ansiedade, síndrome do pânico e alguns tipos de convulsão."
       },
       "abas": {
         "indicacoes": {
@@ -458,8 +445,7 @@
           },
           "infos": [
             { "rotulo": "Apresentação", "valor": "Comprimido de 0,5 mg ou 2 mg e gotas" },
-            { "rotulo": "Receita", "valor": "Receita azul (B1), retida na farmácia" },
-            { "rotulo": "Como usar", "valor": "Pela boca, nos horários que o médico definiu" }
+            { "rotulo": "Receita", "valor": "Receita azul (B1), retida na farmácia" }
           ],
           "nota": "Não divide nem empresta o remédio. A dose certa pra uma pessoa pode ser perigosa pra outra."
         },
@@ -467,7 +453,7 @@
           "pergunta": "Quem não deve tomar?",
           "texto": "Por agir direto no sistema nervoso, o clonazepam tem restrições importantes. Confere antes de começar:",
           "alerta": {
-            "titulo": "Não toma se...",
+            "titulo": "Não tomar se...",
             "texto": "Você tem alergia a benzodiazepínicos, glaucoma de ângulo fechado, doença grave no fígado ou problema respiratório grave (como apneia do sono sem tratamento)."
           },
           "infos": [

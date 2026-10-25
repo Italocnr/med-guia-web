@@ -43,7 +43,6 @@ export interface Remedio {
   tarja: Tarja
   resumo: {
     paraQueServe: string
-    comoTomar: string
   }
   abas: Record<AbaId, Aba>
   fonte: string

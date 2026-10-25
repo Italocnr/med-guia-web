@@ -69,10 +69,9 @@
         "resumo": {
           "type": "object",
           "additionalProperties": false,
-          "required": ["paraQueServe", "comoTomar"],
+          "required": ["paraQueServe"],
           "properties": {
-            "paraQueServe": { "type": "string", "minLength": 1, "maxLength": 70 },
-            "comoTomar": { "type": "string", "minLength": 1, "maxLength": 70 }
+            "paraQueServe": { "type": "string", "minLength": 1, "maxLength": 70 }
           }
         },
         "abas": {
