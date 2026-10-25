@@ -1,0 +1,2564 @@
+{
+  "geradoEm": "2026-10-23T12:00:00+00:00",
+  "total": 30,
+  "remedios": [
+    {
+      "id": "dipirona",
+      "nome": "Dipirona Monoidratada",
+      "subtitulo": "Analgésico e Antipirético",
+      "principioAtivo": "Dipirona monoidratada",
+      "categoria": "analgesico",
+      "tipoVenda": "livre",
+      "tarja": "sem_tarja",
+      "resumo": {
+        "paraQueServe": "Alivia dor e ajuda a baixar a febre."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve a Dipirona?",
+          "texto": "Sabe aquela dor de cabeça chata, dor no corpo ou febre que não quer baixar? A dipirona é uma das mais usadas no Brasil pra isso. Ela alivia dores leves a moderadas e ajuda a baixar a febre, e costuma começar a agir entre 30 e 60 minutos.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Se a febre durar mais de 3 dias ou a dor mais de 5, não insiste no remédio: procura um médico."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Comprimido de 500 mg ou 1 g e gotas"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Adultos e crianças, conforme orientação"
+            }
+          ],
+          "nota": "Na dúvida, pergunta pro farmacêutico ou pro médico antes de usar."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "Nem todo mundo pode usar dipirona. Antes de tomar, vale conferir se você se encaixa em algum desses casos.",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você já teve alergia à dipirona ou a remédios da mesma família (pirazolonas), ou já teve algum problema nas células do sangue, como agranulocitose."
+          },
+          "infos": [
+            {
+              "rotulo": "Alergia",
+              "valor": "Quem já teve reação à dipirona ou parecidos"
+            },
+            {
+              "rotulo": "Sangue",
+              "valor": "Quem tem ou já teve alteração no sangue"
+            },
+            {
+              "rotulo": "Gravidez",
+              "valor": "Evitar nos 3 últimos meses e na amamentação"
+            }
+          ],
+          "nota": "Tem asma que piora com analgésico? Conversa com o médico antes."
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Na maioria das vezes, não dá nada. Mas, como todo remédio, a dipirona pode causar algumas reações em certas pessoas.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Febre alta do nada, dor de garganta forte, feridas na boca, manchas roxas na pele ou falta de ar. Pode ser uma reação mais séria."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Pressão baixa e tontura"
+            },
+            {
+              "rotulo": "Na pele",
+              "valor": "Coceira ou manchas vermelhas"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Parar o remédio e procurar ajuda"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "revisado",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "nimesulida",
+      "nome": "Nimesulida",
+      "subtitulo": "Anti-inflamatório não esteroidal (AINE)",
+      "principioAtivo": "Nimesulida",
+      "categoria": "anti_inflamatorio",
+      "tipoVenda": "receita",
+      "tarja": "vermelha",
+      "resumo": {
+        "paraQueServe": "Trata dores e inflamações, como dor muscular, articular e de dente."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve a Nimesulida?",
+          "texto": "A nimesulida é um anti-inflamatório: ela diminui a inflamação, que é o que causa inchaço, vermelhidão e dor. Costuma ser receitada pra dores musculares, nas articulações, dor de dente e outros processos inflamatórios, e também ajuda a baixar a febre. O tratamento deve ser o mais curto possível.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Respeita sempre a receita. Em dose alta ou uso longo, a nimesulida pode sobrecarregar o fígado."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Comprimido de 100 mg, gotas e granulado"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Adultos e, em algumas apresentações, maiores de 12 anos"
+            }
+          ],
+          "nota": "Não junta com outro anti-inflamatório (ibuprofeno, diclofenaco, aspirina) sem orientação."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "A nimesulida age no fígado, no estômago e nos rins, então pode piorar problemas que já existem. Confere antes de tomar:",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você tem alergia à nimesulida ou a outros anti-inflamatórios, doença no fígado, úlcera ou sangramento no estômago ou no intestino, ou problema grave nos rins ou no coração."
+          },
+          "infos": [
+            {
+              "rotulo": "Gravidez",
+              "valor": "Não usar sem orientação, principalmente após 20 semanas"
+            },
+            {
+              "rotulo": "Crianças",
+              "valor": "Não é indicada pra menores de 12 anos"
+            },
+            {
+              "rotulo": "Álcool",
+              "valor": "Evitar durante o uso: pesa ainda mais no fígado"
+            }
+          ],
+          "nota": "Usa anticoagulante, remédio pra pressão ou diurético? Avisa o médico, porque pode ter interação."
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "A maioria das pessoas não sente nada quando o uso é curto. Os efeitos mais comuns são no estômago. Mais raramente, pode mexer com o fígado ou dar alergia.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Pele ou olhos amarelados, xixi muito escuro, cansaço forte, fezes pretas, vômito com sangue, inchaço no rosto ou falta de ar."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Enjoo, dor de estômago, azia e diarreia"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Tontura, dor de cabeça e coceira na pele"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Parar o remédio e procurar ajuda"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "sulfato-ferroso",
+      "nome": "Sulfato Ferroso",
+      "subtitulo": "Suplemento de ferro",
+      "principioAtivo": "Sulfato ferroso",
+      "categoria": "outro",
+      "tipoVenda": "livre",
+      "tarja": "sem_tarja",
+      "resumo": {
+        "paraQueServe": "Previne ou trata a falta de ferro e a anemia ferropriva."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve o Sulfato Ferroso?",
+          "texto": "O sulfato ferroso repõe o ferro do corpo, que é essencial pra produzir as células vermelhas do sangue. Ele é usado pra prevenir ou tratar a anemia por falta de ferro, que deixa a pessoa cansada, pálida e sem disposição. É muito indicado na gestação, quando a necessidade de ferro aumenta.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Pode deixar as fezes mais escuras, e isso é esperado. Café, chá, leite e alguns remédios (como antiácidos) diminuem a absorção do ferro."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Comprimido, gotas e xarope"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Quem precisa repor ferro, conforme exames e orientação"
+            }
+          ],
+          "nota": "Cansaço e palidez podem ter outras causas além da falta de ferro. Por isso vale fazer exames antes."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "Ferro em excesso também faz mal. Por isso, não é pra tomar por conta própria em qualquer situação.",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você já tem excesso de ferro no corpo (como na hemocromatose) ou tem uma anemia que não é causada por falta de ferro."
+          },
+          "infos": [
+            {
+              "rotulo": "Excesso de ferro",
+              "valor": "Quem já tem ferro alto no sangue não deve usar"
+            },
+            {
+              "rotulo": "Outras anemias",
+              "valor": "Nem toda anemia é por falta de ferro: precisa de exame"
+            },
+            {
+              "rotulo": "Crianças",
+              "valor": "Guardar longe do alcance: overdose de ferro é grave"
+            }
+          ],
+          "nota": "Usa antibiótico (como tetraciclina ou ciprofloxacino) ou remédio pra tireoide? O ferro pode atrapalhar a absorção deles: conta pro médico."
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Os efeitos mais comuns são no estômago e no intestino. Eles costumam melhorar com o tempo ou tomando junto com a comida.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Dor de barriga muito forte, vômito com sangue ou, no caso de criança, suspeita de ter engolido vários comprimidos."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Enjoo, dor na barriga, prisão de ventre e diarreia"
+            },
+            {
+              "rotulo": "Esperado",
+              "valor": "Fezes escuras ou pretas"
+            },
+            {
+              "rotulo": "Gotas e xarope",
+              "valor": "Podem manchar os dentes: escova depois"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "naproxeno",
+      "nome": "Naproxeno 550 mg",
+      "subtitulo": "Anti-inflamatório não esteroidal (AINE)",
+      "principioAtivo": "Naproxeno sódico",
+      "categoria": "anti_inflamatorio",
+      "tipoVenda": "receita",
+      "tarja": "vermelha",
+      "resumo": {
+        "paraQueServe": "Alivia dores e inflamações, como dor muscular, articular e cólica."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve o Naproxeno?",
+          "texto": "O naproxeno é um anti-inflamatório que alivia dor e inflamação. É usado em dores musculares e nas articulações, cólica menstrual e em algumas doenças reumáticas. O efeito dele dura bastante tempo no corpo.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Pode causar problemas no estômago, nos rins e no coração, principalmente em uso longo. Não junta com outro anti-inflamatório sem orientação."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Comprimido de 550 mg"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Adultos e adolescentes, conforme indicação médica"
+            }
+          ],
+          "nota": "Usa sempre a menor dose que resolva, pelo menor tempo possível."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "Como todo anti-inflamatório, o naproxeno pode piorar problemas no estômago, nos rins e no coração. Confere antes:",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você tem úlcera ou sangramento no estômago, alergia ao naproxeno, à aspirina ou a outros anti-inflamatórios, ou doença grave nos rins, no fígado ou no coração."
+          },
+          "infos": [
+            {
+              "rotulo": "Gravidez",
+              "valor": "Evitar a partir de 20 semanas, salvo orientação médica"
+            },
+            {
+              "rotulo": "Pressão",
+              "valor": "Pode subir a pressão: hipertensos precisam de avaliação"
+            },
+            {
+              "rotulo": "Asma",
+              "valor": "Quem tem crise de asma com anti-inflamatório não usa"
+            }
+          ],
+          "nota": "Usa anticoagulante, diurético ou remédio pra pressão? Avisa o médico."
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Os efeitos mais comuns são no estômago. Em uso prolongado, a atenção precisa ser maior.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Fezes pretas, vômito com sangue, dor forte no estômago, inchaço nas pernas, falta de ar ou dor no peito."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Dor de estômago, azia, enjoo e indigestão"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Tontura, inchaço e aumento da pressão"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Parar o remédio e procurar ajuda"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "biogripe",
+      "nome": "Biogripe",
+      "subtitulo": "Antigripal combinado",
+      "principioAtivo": "Paracetamol + maleato de clorfeniramina + cloridrato de fenilefrina",
+      "categoria": "antigripal",
+      "tipoVenda": "livre",
+      "tarja": "sem_tarja",
+      "resumo": {
+        "paraQueServe": "Alivia febre, dor, nariz entupido e coriza da gripe e do resfriado."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve o Biogripe?",
+          "texto": "O Biogripe junta três remédios num só: o paracetamol (pra dor e febre), a clorfeniramina (um antialérgico que segura a coriza e o espirro) e a fenilefrina (que desentope o nariz). Ele alivia os sintomas, mas não cura a gripe: quem resolve é o seu corpo, com repouso e água.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Não combina com outro remédio que tenha paracetamol: somar os dois pode passar do limite seguro e lesar o fígado."
+          },
+          "infos": [
+            {
+              "rotulo": "Composição",
+              "valor": "Paracetamol 400 mg + clorfeniramina 4 mg + fenilefrina 4 mg"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Depende da apresentação e da idade: confere a bula"
+            },
+            {
+              "rotulo": "Atenção",
+              "valor": "Sintomas que não melhoram pedem avaliação médica"
+            }
+          ],
+          "nota": "Pode dar sono. Evita dirigir ou mexer com máquinas até saber como ele age em você."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "Por causa da fenilefrina, que mexe com a pressão, e da clorfeniramina, que dá sono, esse remédio não é pra todo mundo.",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você tem pressão alta não controlada, doença no coração, glaucoma, problema no fígado ou usa antidepressivo do tipo IMAO."
+          },
+          "infos": [
+            {
+              "rotulo": "Pressão",
+              "valor": "A fenilefrina pode subir a pressão"
+            },
+            {
+              "rotulo": "Álcool",
+              "valor": "Não combina: aumenta o sono e o risco pro fígado"
+            },
+            {
+              "rotulo": "Gravidez",
+              "valor": "Só com orientação profissional"
+            }
+          ],
+          "nota": null
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "O efeito mais comum é sonolência, por causa do antialérgico da fórmula. Também pode deixar a boca seca.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Coração disparado, dor de cabeça muito forte, dificuldade pra fazer xixi, pele ou olhos amarelados ou manchas na pele."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Sono, boca seca e tontura"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Palpitação, pressão alta, enjoo e insônia"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Parar o remédio e procurar ajuda"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "vonau",
+      "nome": "Vonau",
+      "subtitulo": "Antiemético",
+      "principioAtivo": "Cloridrato de ondansetrona",
+      "categoria": "gastro",
+      "tipoVenda": "receita",
+      "tarja": "vermelha",
+      "resumo": {
+        "paraQueServe": "Previne e trata enjoo e vômito, como após cirurgia ou quimioterapia."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve o Vonau?",
+          "texto": "O Vonau tem ondansetrona, que bloqueia o sinal de enjoo no cérebro e no intestino. Ele é usado pra prevenir e tratar náusea e vômito, principalmente depois de cirurgias e em tratamentos que dão muito enjoo, como a quimioterapia. A versão Flash se dissolve na língua, sem precisar de água.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Em pessoas com tendência a alteração no ritmo do coração (como intervalo QT longo), pode piorar o ritmo cardíaco. Avisa o médico se tiver problema no coração."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Comprimido e comprimido que dissolve na boca (Flash)"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Adultos e crianças, com dose pela idade, peso e motivo"
+            }
+          ],
+          "nota": "Vômito que não para pode desidratar. Se não melhorar, procura atendimento."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "A ondansetrona é bem tolerada, mas exige cuidado em quem tem problema no coração ou nos sais do sangue.",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você tem alergia à ondansetrona ou a algum componente da fórmula, ou usa apomorfina (remédio pra Parkinson)."
+          },
+          "infos": [
+            {
+              "rotulo": "Coração",
+              "valor": "Quem tem arritmia ou QT longo precisa de avaliação"
+            },
+            {
+              "rotulo": "Sais do sangue",
+              "valor": "Potássio ou magnésio baixo aumentam o risco"
+            },
+            {
+              "rotulo": "Fígado",
+              "valor": "Doença grave no fígado exige dose menor"
+            }
+          ],
+          "nota": "Usa antidepressivo ou outro remédio que mexe com a serotonina? Avisa o médico."
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Os efeitos costumam ser leves. O mais comum é dor de cabeça, e ele também pode deixar o intestino preso.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Coração disparado ou fora do ritmo, desmaio, inchaço no rosto ou falta de ar."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Dor de cabeça, prisão de ventre e cansaço"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Tontura e sensação de calor no rosto"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Avisar o médico se incomodar"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "ivermectina",
+      "nome": "Ivermectina",
+      "subtitulo": "Antiparasitário",
+      "principioAtivo": "Ivermectina",
+      "categoria": "outro",
+      "tipoVenda": "receita",
+      "tarja": "vermelha",
+      "resumo": {
+        "paraQueServe": "Trata infecções por alguns parasitas, como sarna, piolho e vermes."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve a Ivermectina?",
+          "texto": "A ivermectina age contra alguns parasitas: certos vermes do intestino (como o estrongiloide), a sarna e o piolho, entre outros. O tratamento depende da infecção e é definido pelo médico.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "O tratamento depende do peso e da infecção. Ela não é um vermífugo pra qualquer situação e não trata doenças causadas por vírus."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Comprimido de 6 mg"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Pessoas com indicação, conforme idade, peso e diagnóstico"
+            }
+          ],
+          "nota": "No caso de sarna e piolho, quem mora junto pode precisar tratar também. Confirma com o médico."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "Antes de tomar, vale conferir se você se encaixa em algum desses casos.",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você tem alergia à ivermectina, é uma criança com menos de 15 kg ou tem alguma doença que afeta a proteção do cérebro, como meningite."
+          },
+          "infos": [
+            {
+              "rotulo": "Crianças",
+              "valor": "Não indicada pra quem pesa menos de 15 kg"
+            },
+            {
+              "rotulo": "Gravidez",
+              "valor": "Não usar por conta própria"
+            },
+            {
+              "rotulo": "Amamentação",
+              "valor": "Só com orientação médica"
+            }
+          ],
+          "nota": "Usa anticoagulante (como varfarina)? Avisa o médico, porque pode ter interação."
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Os efeitos costumam ser leves e passageiros. Às vezes, eles vêm da morte dos parasitas, e não do remédio em si.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Inchaço no rosto, falta de ar, febre alta, confusão mental ou manchas espalhadas pela pele."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Tontura, enjoo, diarreia e dor na barriga"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Sonolência, fraqueza e coceira"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Avisar o médico se não passar"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "neosaldina",
+      "nome": "Neosaldina",
+      "subtitulo": "Analgésico e antiespasmódico combinado",
+      "principioAtivo": "Dipirona + mucato de isometepteno + cafeína",
+      "categoria": "analgesico",
+      "tipoVenda": "livre",
+      "tarja": "sem_tarja",
+      "resumo": {
+        "paraQueServe": "Alivia dor de cabeça, alguns tipos de enxaqueca e cólicas."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve a Neosaldina?",
+          "texto": "A Neosaldina junta três substâncias: a dipirona (pra dor), o isometepteno (que age nos vasos da cabeça e alivia a dor da enxaqueca) e a cafeína (que potencializa o efeito). Ela é usada pra dor de cabeça, alguns tipos de enxaqueca e cólicas.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Ela tem cafeína e isometepteno, então pode causar palpitação e agitação. Não é uma simples dipirona: quem tem pressão alta ou problema no coração precisa de cuidado."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Drágea com 300 mg + 30 mg + 30 mg, e gotas"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Drágeas: adultos e maiores de 12 anos (gotas têm outra faixa)"
+            }
+          ],
+          "nota": "Dor de cabeça frequente, que pede remédio quase todo dia, merece consulta com o médico."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "Por ter dipirona e substâncias que mexem com os vasos e a pressão, a Neosaldina não é pra todo mundo.",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você tem alergia à dipirona ou a algum componente, crise de pressão alta, alteração nas células do sangue, porfiria ou deficiência de G6PD."
+          },
+          "infos": [
+            {
+              "rotulo": "Pressão",
+              "valor": "Hipertensos devem evitar ou usar só com orientação"
+            },
+            {
+              "rotulo": "Sangue",
+              "valor": "Quem já teve alteração no sangue com dipirona não usa"
+            },
+            {
+              "rotulo": "Gravidez",
+              "valor": "Só com orientação médica"
+            }
+          ],
+          "nota": "Usa antidepressivo do tipo IMAO? Não toma Neosaldina sem falar com o médico."
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Na maioria das vezes não dá nada, mas a cafeína e o isometepteno podem deixar algumas pessoas agitadas.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Febre alta do nada, dor de garganta forte, feridas na boca, inchaço no rosto ou falta de ar. Pode ser uma reação mais séria."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Agitação, palpitação e enjoo"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Tontura, alteração da pressão e alergia"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Parar o remédio e procurar ajuda"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "loratadina",
+      "nome": "Loratadina",
+      "subtitulo": "Antialérgico",
+      "principioAtivo": "Loratadina",
+      "categoria": "antialergico",
+      "tipoVenda": "livre",
+      "tarja": "sem_tarja",
+      "resumo": {
+        "paraQueServe": "Alivia sintomas de alergia, como espirro, coriza, coceira e urticária."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve a Loratadina?",
+          "texto": "Sabe aquela crise de rinite com espirro sem parar, nariz escorrendo e olho coçando? A loratadina é um antialérgico que ajuda nisso, e também alivia a coceira e as placas vermelhas da urticária. A vantagem é que ela dá bem menos sono que os antialérgicos mais antigos.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Quem tem problema no fígado ou nos rins deve procurar orientação antes, porque pode precisar de uma dose diferente."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Comprimido de 10 mg e xarope"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Adultos e crianças, respeitando a idade e a apresentação"
+            }
+          ],
+          "nota": "Se os sintomas não melhorarem em alguns dias, ou se tiver falta de ar ou chiado no peito, procura um médico."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "A loratadina é bem segura, mas algumas pessoas precisam de cuidado extra antes de usar.",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você já teve alergia à loratadina ou a algum componente da fórmula."
+          },
+          "infos": [
+            {
+              "rotulo": "Fígado",
+              "valor": "Quem tem problema no fígado pode precisar de dose menor"
+            },
+            {
+              "rotulo": "Crianças",
+              "valor": "Menores de 2 anos só com orientação do médico"
+            },
+            {
+              "rotulo": "Gravidez",
+              "valor": "Só com orientação médica"
+            }
+          ],
+          "nota": null
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Quase sempre não dá nada. Quando aparece algum efeito, ele costuma ser leve.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Inchaço no rosto, coração acelerado ou desmaio."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Dor de cabeça, sono e cansaço"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Boca seca e desconforto no estômago"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Avisar o médico se incomodar"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "amoxicilina",
+      "nome": "Amoxicilina",
+      "subtitulo": "Antibiótico",
+      "principioAtivo": "Amoxicilina tri-hidratada",
+      "categoria": "antibiotico",
+      "tipoVenda": "receita",
+      "tarja": "vermelha_retencao",
+      "resumo": {
+        "paraQueServe": "Combate determinadas infecções causadas por bactérias."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve a Amoxicilina?",
+          "texto": "A amoxicilina é um antibiótico da família das penicilinas. Ela combate infecções causadas por bactérias, como algumas infecções respiratórias, de garganta, de ouvido, urinárias e de pele. Importante: ela não funciona contra vírus, então não adianta pra gripe ou resfriado comum.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Não trata gripe nem resfriado, que geralmente são causados por vírus. Usar sem precisar favorece a resistência das bactérias. Vai até o fim do tratamento, mesmo se melhorar antes."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Cápsula de 500 mg e suspensão (líquido) pra crianças"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Adultos e crianças, dose pela idade, peso e infecção"
+            }
+          ],
+          "nota": "A farmácia fica com uma via da receita."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "A amoxicilina é bem tolerada pela maioria das pessoas, mas tem gente que não pode usar de jeito nenhum. Confere antes:",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você já teve alergia a penicilina, amoxicilina, ampicilina ou a outro antibiótico parecido (como as cefalosporinas). A reação pode ser grave."
+          },
+          "infos": [
+            {
+              "rotulo": "Alergia",
+              "valor": "Quem já reagiu a penicilinas ou cefalosporinas"
+            },
+            {
+              "rotulo": "Mononucleose",
+              "valor": "Pode causar manchas na pele: avisa o médico"
+            },
+            {
+              "rotulo": "Rins",
+              "valor": "Quem tem problema nos rins pode precisar de dose menor"
+            }
+          ],
+          "nota": "Usa anticoncepcional ou anticoagulante? Conta pro médico, porque pode ter interação."
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "O mais comum é mexer com o intestino, porque o antibiótico também afeta as bactérias boas da flora. Geralmente é leve e passa quando o tratamento acaba.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Inchaço no rosto ou na garganta, falta de ar, manchas que se espalham pela pele ou diarreia forte com sangue. Pode ser alergia ou uma infecção intestinal séria."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Diarreia, enjoo, vômito e manchas leves na pele"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Candidíase (coceira na região íntima ou na boca)"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Beber bastante água e avisar o médico"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "omeprazol",
+      "nome": "Omeprazol",
+      "subtitulo": "Antiulceroso / redutor de acidez",
+      "principioAtivo": "Omeprazol",
+      "categoria": "gastro",
+      "tipoVenda": "receita",
+      "tarja": "vermelha",
+      "resumo": {
+        "paraQueServe": "Diminui a produção de ácido no estômago."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve o Omeprazol?",
+          "texto": "O omeprazol diminui a produção de ácido no estômago. Ele é usado pra tratar azia, refluxo, gastrite e úlcera, e às vezes junto com antibióticos pra eliminar a bactéria H. pylori. Ele não age na hora como um antiácido: o efeito completo aparece depois de alguns dias de uso.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "O uso frequente por conta própria pode esconder doenças que precisam de investigação. Azia que volta toda hora merece consulta."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Cápsula de 10 mg, 20 mg ou 40 mg"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Adultos e crianças, conforme orientação médica"
+            }
+          ],
+          "nota": "Omeprazol e antiácido agem de jeitos diferentes. Na dúvida sobre qual usar, pergunta pro farmacêutico."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "O omeprazol é bem tolerado, mas não combina com alguns remédios e situações.",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você já teve alergia ao omeprazol ou a remédios parecidos (como pantoprazol e esomeprazol), ou usa nelfinavir, um remédio pra HIV."
+          },
+          "infos": [
+            {
+              "rotulo": "Interações",
+              "valor": "Pode atrapalhar o clopidogrel: avisa o médico"
+            },
+            {
+              "rotulo": "Fígado",
+              "valor": "Doença no fígado precisa de avaliação"
+            },
+            {
+              "rotulo": "Gravidez",
+              "valor": "Só com orientação médica"
+            }
+          ],
+          "nota": null
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Na maioria das vezes é bem tranquilo. Quando aparece algum efeito, costuma ser leve e passageiro.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Diarreia forte que não passa, manchas ou bolhas na pele, cãibras ou tremores. Em uso por muitos meses, pode faltar vitamina B12 e magnésio."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Dor de cabeça, gases, enjoo, diarreia e prisão de ventre"
+            },
+            {
+              "rotulo": "Uso longo",
+              "valor": "Pode baixar vitamina B12 e magnésio"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Conversar com o médico antes de parar"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "diclofenaco",
+      "nome": "Diclofenaco",
+      "subtitulo": "Anti-inflamatório e analgésico",
+      "principioAtivo": "Diclofenaco (sódico ou potássico)",
+      "categoria": "anti_inflamatorio",
+      "tipoVenda": "receita",
+      "tarja": "vermelha",
+      "resumo": {
+        "paraQueServe": "Reduz dores e inflamações."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve o Diclofenaco?",
+          "texto": "O diclofenaco é um anti-inflamatório bem conhecido. Ele alivia dor e inflamação em dores musculares e nas articulações, lesões, torções, cólica menstrual e algumas dores depois de cirurgia. Existe em comprimido, gel e injeção; aqui o foco é o comprimido.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Pode causar problemas no estômago, nos rins e no coração, principalmente quando usado do jeito errado ou por muito tempo."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Comprimido de 50 mg (sódico ou potássico)"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Adultos e, dependendo da apresentação, adolescentes"
+            }
+          ],
+          "nota": "Não junta com outro anti-inflamatório. Usa a menor dose que resolva, pelo menor tempo possível."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "Como outros anti-inflamatórios, o diclofenaco pode piorar problemas que já existem. Confere antes:",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você tem alergia a anti-inflamatórios, úlcera ou sangramento no estômago, ou doença grave nos rins, no fígado ou no coração."
+          },
+          "infos": [
+            {
+              "rotulo": "Gravidez",
+              "valor": "Evitar, principalmente nos últimos meses"
+            },
+            {
+              "rotulo": "Asma",
+              "valor": "Quem tem crise de asma com anti-inflamatório não usa"
+            },
+            {
+              "rotulo": "Pressão",
+              "valor": "Pode subir a pressão e reter líquido"
+            }
+          ],
+          "nota": "Usa anticoagulante, diurético ou remédio pra pressão? Avisa o médico."
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "O mais comum é incomodar o estômago. Quem já tem gastrite ou úlcera precisa de mais cuidado.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Fezes pretas, vômito com sangue, dor forte no estômago, inchaço no rosto, falta de ar ou dor no peito."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Dor de estômago, enjoo, azia e diarreia"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Tontura e dor de cabeça"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Parar o remédio e procurar ajuda"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "azitromicina",
+      "nome": "Azitromicina",
+      "subtitulo": "Antibiótico",
+      "principioAtivo": "Azitromicina di-hidratada",
+      "categoria": "antibiotico",
+      "tipoVenda": "receita",
+      "tarja": "vermelha_retencao",
+      "resumo": {
+        "paraQueServe": "Trata determinadas infecções causadas por bactérias."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve a Azitromicina?",
+          "texto": "A azitromicina é um antibiótico que fica bastante tempo no corpo, por isso o tratamento costuma ser curto. É usada em algumas infecções respiratórias, de pele, de garganta e de ouvido, e em algumas infecções sexualmente transmissíveis.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Não é pra gripe nem resfriado viral. Antibiótico não mata vírus: usar sem precisar não ajuda a melhorar e ainda deixa as bactérias mais resistentes."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Comprimido de 500 mg e suspensão (líquido)"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Adultos e crianças, conforme idade, peso e indicação"
+            }
+          ],
+          "nota": "A farmácia fica com uma via da receita. Toma todos os dias que o médico indicou, mesmo se melhorar antes."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "Antes de começar, vale conferir se você tem alguma dessas condições. Se tiver, o médico pode escolher outro antibiótico.",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você já teve alergia à azitromicina, eritromicina ou claritromicina, ou já teve problema no fígado depois de usar algum desses remédios."
+          },
+          "infos": [
+            {
+              "rotulo": "Alergia",
+              "valor": "Quem já reagiu a macrolídeos (eritromicina e parecidos)"
+            },
+            {
+              "rotulo": "Coração",
+              "valor": "Quem tem arritmia ou usa remédio pro ritmo do coração"
+            },
+            {
+              "rotulo": "Fígado",
+              "valor": "Quem tem doença no fígado precisa de avaliação"
+            }
+          ],
+          "nota": "Antiácido com alumínio ou magnésio atrapalha a absorção. Conta pro médico se você usa."
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Geralmente os efeitos são leves e ligados ao estômago e ao intestino. Eles costumam sumir quando o tratamento termina.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Coração disparado ou batendo fora do ritmo, desmaio, pele ou olhos amarelados, bolhas na pele ou diarreia forte que não passa."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Diarreia, enjoo, vômito e dor na barriga"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Dor de cabeça e tontura"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Avisar o médico antes de parar o remédio"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "loperamida",
+      "nome": "Loperamida",
+      "subtitulo": "Antidiarreico",
+      "principioAtivo": "Cloridrato de loperamida",
+      "categoria": "gastro",
+      "tipoVenda": "receita",
+      "tarja": "vermelha",
+      "resumo": {
+        "paraQueServe": "Diminui as evacuações e ajuda a controlar a diarreia."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve a Loperamida?",
+          "texto": "A loperamida deixa o intestino mais lento, o que diminui as idas ao banheiro e deixa as fezes mais firmes. Ela é usada pra aliviar alguns tipos de diarreia, mas trata o sintoma, e não a causa.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Não serve pra simplesmente “prender” o intestino sem saber a causa da diarreia. Se tiver sangue nas fezes ou febre, procura um médico antes de usar."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Comprimido de 2 mg"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Depende da idade e da apresentação; muitas são pra adultos"
+            }
+          ],
+          "nota": "O mais importante na diarreia é se hidratar: bebe bastante água e soro de reidratação."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "A diarreia às vezes é o jeito do corpo de pôr pra fora uma infecção. Por isso, em alguns casos, segurar o intestino piora o quadro.",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você tem diarreia com sangue ou febre alta, colite em crise, diarreia depois de usar antibiótico ou sinais de intestino travado."
+          },
+          "infos": [
+            {
+              "rotulo": "Crianças",
+              "valor": "Menores de 2 anos não podem usar"
+            },
+            {
+              "rotulo": "Duração",
+              "valor": "Se não melhorar em 48 horas, procura um médico"
+            },
+            {
+              "rotulo": "Fígado",
+              "valor": "Doença no fígado precisa de avaliação"
+            }
+          ],
+          "nota": null
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Os efeitos geralmente são leves e vêm do próprio intestino ficando mais lento.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Barriga muito inchada e dura, dor forte, prisão de ventre que não passa ou coração fora do ritmo."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Prisão de ventre, cólica e enjoo"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Tontura e barriga estufada"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Parar o remédio se o intestino travar"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "fluconazol",
+      "nome": "Fluconazol",
+      "subtitulo": "Antifúngico",
+      "principioAtivo": "Fluconazol",
+      "categoria": "outro",
+      "tipoVenda": "receita",
+      "tarja": "vermelha",
+      "resumo": {
+        "paraQueServe": "Combate infecções causadas por fungos."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve o Fluconazol?",
+          "texto": "O fluconazol combate fungos. O uso mais conhecido é na candidíase vaginal, mas ele também trata outras infecções por fungos, como candidíase na boca e algumas micoses, com tratamentos diferentes pra cada caso.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Pode interagir com vários remédios e, em alguns casos, afetar o fígado. Conta pro médico tudo o que você usa."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Cápsula de 150 mg (e outras concentrações)"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Adultos e crianças, conforme a infecção e o paciente"
+            }
+          ],
+          "nota": "Candidíase que volta várias vezes por ano merece investigação com o médico."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "O fluconazol mexe com o jeito que o fígado processa outros remédios. Por isso, confere antes:",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você tem alergia ao fluconazol ou a outros antifúngicos parecidos (azólicos), ou usa remédios que alteram o ritmo do coração, como a cisaprida."
+          },
+          "infos": [
+            {
+              "rotulo": "Fígado",
+              "valor": "Quem tem doença no fígado precisa de avaliação"
+            },
+            {
+              "rotulo": "Interações",
+              "valor": "Anticoagulante, estatina e outros: avisa o médico"
+            },
+            {
+              "rotulo": "Gravidez",
+              "valor": "Só com orientação médica"
+            }
+          ],
+          "nota": null
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Em tratamentos curtos, geralmente não dá nada. Em tratamentos mais longos, os efeitos aparecem com mais frequência.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Pele ou olhos amarelados, xixi muito escuro, bolhas ou descamação na pele, coração fora do ritmo ou desmaio."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Dor de cabeça, enjoo, dor na barriga e diarreia"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Alteração nos exames do fígado"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Avisar o médico se não passar"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "buscopan",
+      "nome": "Buscopan",
+      "subtitulo": "Antiespasmódico",
+      "principioAtivo": "Butilbrometo de escopolamina",
+      "categoria": "gastro",
+      "tipoVenda": "receita",
+      "tarja": "vermelha",
+      "resumo": {
+        "paraQueServe": "Alivia cólicas do estômago, do intestino, da vesícula e urinárias."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve o Buscopan?",
+          "texto": "O Buscopan relaxa a musculatura do estômago, do intestino, das vias biliares e do trato urinário. Quando esses músculos se contraem demais, dá aquela cólica forte. Ele age soltando essas contrações e aliviando a dor.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Se a dor na barriga for muito forte, não passar ou vier com febre, vômito ou sangue nas fezes, procura atendimento em vez de só disfarçar a dor."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Drágea de 10 mg e gotas"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Depende da apresentação e da idade: confere a bula"
+            }
+          ],
+          "nota": "Existe também o Buscopan Composto, que tem dipirona junto. Confere qual é o seu antes de tomar."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "O Buscopan pode agravar algumas condições, principalmente nos olhos, no intestino e na bexiga.",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você tem alergia ao medicamento, glaucoma de ângulo fechado, obstrução no intestino ou na urina, próstata aumentada com dificuldade pra urinar ou miastenia gravis."
+          },
+          "infos": [
+            {
+              "rotulo": "Coração",
+              "valor": "Quem tem coração acelerado pode piorar"
+            },
+            {
+              "rotulo": "Olhos",
+              "valor": "Glaucoma de ângulo fechado: não pode usar"
+            },
+            {
+              "rotulo": "Gravidez",
+              "valor": "Só com orientação médica"
+            }
+          ],
+          "nota": null
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Os efeitos vêm do próprio jeito que ele age: além de relaxar a barriga, ele seca algumas secreções do corpo.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Dificuldade pra fazer xixi, dor nos olhos com visão embaçada, coração disparado, inchaço no rosto ou falta de ar."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Boca seca, prisão de ventre e visão turva"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Palpitação e coração acelerado"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Parar o remédio e procurar ajuda"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "cimegripe",
+      "nome": "Cimegripe",
+      "subtitulo": "Antigripal",
+      "principioAtivo": "Paracetamol + maleato de clorfeniramina + cloridrato de fenilefrina",
+      "categoria": "antigripal",
+      "tipoVenda": "livre",
+      "tarja": "sem_tarja",
+      "resumo": {
+        "paraQueServe": "Alivia febre, dor, coriza, espirros e nariz entupido da gripe."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve o Cimegripe?",
+          "texto": "O Cimegripe junta paracetamol (pra dor e febre), clorfeniramina (um antialérgico que segura coriza e espirro) e fenilefrina (que desentope o nariz). Ele alivia os sintomas da gripe e do resfriado, mas não cura: quem resolve é o seu corpo, com repouso e água.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Como tem paracetamol, não junta com outro remédio que também tenha paracetamol sem orientação. Ele também pode dar sono."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Cápsula"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Adultos e, em algumas apresentações, crianças"
+            },
+            {
+              "rotulo": "Atenção",
+              "valor": "Sintomas que não melhoram pedem avaliação médica"
+            }
+          ],
+          "nota": "Evita dirigir ou mexer com máquinas até saber como ele age em você."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "A fenilefrina mexe com a pressão e a clorfeniramina dá sono, então ele não é pra todo mundo.",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você tem pressão alta, doença no coração, glaucoma, problema no fígado, hipertireoidismo ou usa antidepressivo do tipo IMAO."
+          },
+          "infos": [
+            {
+              "rotulo": "Pressão",
+              "valor": "A fenilefrina pode subir a pressão"
+            },
+            {
+              "rotulo": "Álcool",
+              "valor": "Não combina: aumenta o sono e o risco pro fígado"
+            },
+            {
+              "rotulo": "Gravidez",
+              "valor": "Só com orientação médica"
+            }
+          ],
+          "nota": null
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "O efeito mais comum é sonolência, por causa do antialérgico. Também pode deixar a boca seca e dar tontura.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Coração disparado, dor de cabeça muito forte, dificuldade pra fazer xixi, pele ou olhos amarelados ou manchas na pele."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Sono, boca seca, tontura e enjoo"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Palpitação e alteração da pressão"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Parar o remédio e procurar ajuda"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "dorflex",
+      "nome": "Dorflex",
+      "subtitulo": "Analgésico e relaxante muscular",
+      "principioAtivo": "Dipirona sódica + citrato de orfenadrina + cafeína",
+      "categoria": "analgesico",
+      "tipoVenda": "livre",
+      "tarja": "sem_tarja",
+      "resumo": {
+        "paraQueServe": "Alivia dores ligadas à tensão e a espasmos musculares."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve o Dorflex?",
+          "texto": "O Dorflex junta a dipirona (pra dor), a orfenadrina (que relaxa os músculos) e a cafeína (que potencializa o efeito). É muito usado pra dor de cabeça tensional, dor muscular, torcicolo e dor nas costas, principalmente quando o músculo está travado.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Pode dar sono, tontura e deixar a atenção mais lenta. O álcool aumenta esses efeitos, então evita beber enquanto estiver usando."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Comprimido com 300 mg + 35 mg + 50 mg"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Adultos e, conforme a bula, adolescentes"
+            }
+          ],
+          "nota": "Dor muscular que não melhora em alguns dias merece avaliação."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "Por ter dipirona e um relaxante muscular que seca as secreções do corpo, o Dorflex tem algumas restrições.",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você tem alergia à dipirona ou a algum componente, alteração nas células do sangue, glaucoma, próstata aumentada, obstrução no intestino ou miastenia gravis."
+          },
+          "infos": [
+            {
+              "rotulo": "Sangue",
+              "valor": "Quem já teve alteração no sangue com dipirona não usa"
+            },
+            {
+              "rotulo": "Olhos",
+              "valor": "Glaucoma não combina com a orfenadrina"
+            },
+            {
+              "rotulo": "Gravidez",
+              "valor": "Só com orientação médica"
+            }
+          ],
+          "nota": null
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "A maioria das pessoas não sente nada, mas a orfenadrina pode dar boca seca e sono.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Febre alta do nada, dor de garganta forte, feridas na boca, manchas roxas na pele, inchaço no rosto ou falta de ar."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Boca seca, sono, tontura e enjoo"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Palpitação e alteração da pressão"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Parar o remédio e procurar ajuda"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "clonazepam",
+      "nome": "Clonazepam",
+      "subtitulo": "Ansiolítico / anticonvulsivante",
+      "principioAtivo": "Clonazepam",
+      "categoria": "outro",
+      "tipoVenda": "receita",
+      "tarja": "preta",
+      "resumo": {
+        "paraQueServe": "Trata ansiedade, síndrome do pânico e alguns tipos de convulsão."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve o Clonazepam?",
+          "texto": "O clonazepam é um calmante da família dos benzodiazepínicos, com efeito ansiolítico, anticonvulsivante, relaxante muscular e sedativo. Ele é usado em transtornos de ansiedade, síndrome do pânico e alguns tipos de epilepsia. É um remédio controlado: a farmácia só vende com a receita azul, que fica retida.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Pode causar dependência física e psicológica, principalmente em uso longo. Nunca para de repente: isso pode causar abstinência e, em alguns casos, convulsões. A retirada tem que ser aos poucos."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Comprimido de 0,5 mg ou 2 mg e gotas"
+            },
+            {
+              "rotulo": "Receita",
+              "valor": "Receita azul (B1), retida na farmácia"
+            }
+          ],
+          "nota": "Não divide nem empresta o remédio. A dose certa pra uma pessoa pode ser perigosa pra outra."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "Por agir direto no sistema nervoso, o clonazepam tem restrições importantes. Confere antes de começar:",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você tem alergia a benzodiazepínicos, insuficiência respiratória grave, apneia do sono, doença grave no fígado ou glaucoma de ângulo fechado."
+          },
+          "infos": [
+            {
+              "rotulo": "Álcool",
+              "valor": "Nunca junta: pode deprimir a respiração"
+            },
+            {
+              "rotulo": "Direção",
+              "valor": "Evita dirigir até saber como ele age em você"
+            },
+            {
+              "rotulo": "Gravidez",
+              "valor": "Só com acompanhamento médico"
+            }
+          ],
+          "nota": "Toma opioide, antidepressivo ou outro calmante? Avisa o médico, porque os efeitos se somam."
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "O mais comum é sono e moleza, principalmente no começo do tratamento. Por isso, evita dirigir até saber como ele age em você.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Sono muito forte, respiração lenta, confusão mental, agitação estranha ou pensamentos de se machucar."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Sonolência, tontura e falta de coordenação"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Esquecimento, fraqueza e menos atenção"
+            },
+            {
+              "rotulo": "Uso longo",
+              "valor": "Pode causar dependência"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "ibuprofeno",
+      "nome": "Ibuprofeno",
+      "subtitulo": "Anti-inflamatório e antitérmico",
+      "principioAtivo": "Ibuprofeno",
+      "categoria": "anti_inflamatorio",
+      "tipoVenda": "livre",
+      "tarja": "sem_tarja",
+      "resumo": {
+        "paraQueServe": "Reduz dor, inflamação e febre."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve o Ibuprofeno?",
+          "texto": "O ibuprofeno é um anti-inflamatório que também tira dor e baixa febre. É usado pra dor de cabeça, dor de dente, dor muscular e nas articulações, cólica menstrual e febre. Em dose baixa é vendido sem receita, mas continua sendo um anti-inflamatório e pede cuidado.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Usa a menor dose que resolva, pelo menor tempo possível. Ele pode irritar o estômago e afetar os rins, principalmente em quem já tem algum problema."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Comprimido ou cápsula de 200 a 600 mg e gotas"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Adultos e crianças, dose pela idade, peso e apresentação"
+            }
+          ],
+          "nota": "Febre ou dor que não passa em 3 dias merece consulta. Não junta com outro anti-inflamatório."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "Mesmo vendido sem receita, o ibuprofeno não é pra todo mundo. Confere antes:",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você tem alergia ao ibuprofeno, à aspirina ou a outros anti-inflamatórios, úlcera ou sangramento no estômago, ou doença grave nos rins, no fígado ou no coração."
+          },
+          "infos": [
+            {
+              "rotulo": "Gravidez",
+              "valor": "Evitar, principalmente nos últimos meses"
+            },
+            {
+              "rotulo": "Asma",
+              "valor": "Quem tem crise de asma com anti-inflamatório não usa"
+            },
+            {
+              "rotulo": "Dengue",
+              "valor": "Suspeita de dengue: não usa, pelo risco de sangramento"
+            }
+          ],
+          "nota": "Usa anticoagulante, diurético ou remédio pra pressão? Avisa o médico."
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Em uso curto, costuma ser bem tolerado. O mais comum é incomodar o estômago.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Fezes pretas, vômito com sangue, dor forte no estômago, inchaço no rosto, falta de ar ou xixi muito reduzido."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Azia, dor na barriga, enjoo e diarreia"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Tontura e dor de cabeça"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Parar o remédio e procurar ajuda"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "sertralina",
+      "nome": "Sertralina",
+      "subtitulo": "Antidepressivo",
+      "principioAtivo": "Cloridrato de sertralina",
+      "categoria": "outro",
+      "tipoVenda": "receita",
+      "tarja": "vermelha_retencao",
+      "resumo": {
+        "paraQueServe": "Trata depressão e alguns transtornos de ansiedade."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve a Sertralina?",
+          "texto": "A sertralina é um antidepressivo que aumenta a ação da serotonina no cérebro. Ela é usada em depressão, TOC, síndrome do pânico, ansiedade social e transtorno de estresse pós-traumático, sempre com indicação médica. É um remédio controlado, e a farmácia fica com a receita.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "O efeito pode levar algumas semanas pra aparecer, e ela não deve ser interrompida de repente. Junto com outros remédios que mexem com a serotonina, pode causar síndrome serotoninérgica, que é grave."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Comprimido de 25, 50 e 100 mg"
+            },
+            {
+              "rotulo": "Receita",
+              "valor": "Receita de controle especial, retida na farmácia"
+            }
+          ],
+          "nota": "Nos primeiros dias pode dar enjoo ou aumentar a ansiedade. Isso costuma passar; conversa com o médico."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "A sertralina é bastante usada, mas tem combinações perigosas. Confere antes:",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você tem alergia à sertralina, usa ou usou nos últimos 14 dias um antidepressivo do tipo IMAO, ou usa pimozida."
+          },
+          "infos": [
+            {
+              "rotulo": "Álcool",
+              "valor": "Evitar durante o tratamento"
+            },
+            {
+              "rotulo": "Gravidez",
+              "valor": "Só com acompanhamento médico"
+            },
+            {
+              "rotulo": "Jovens",
+              "valor": "Até 24 anos, atenção redobrada ao humor no início"
+            }
+          ],
+          "nota": "Usa outro antidepressivo, tramadol, remédio pra enxaqueca (triptano) ou erva-de-são-joão? Avisa o médico."
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Os efeitos costumam aparecer nas primeiras semanas e muitas vezes diminuem com o tempo.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Pensamentos de se machucar, agitação muito forte, febre com tremores e músculos rígidos, confusão ou sangramentos sem motivo."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Enjoo, diarreia, dor de cabeça e boca seca"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Insônia ou sono, tontura e mudança no apetite"
+            },
+            {
+              "rotulo": "Vida sexual",
+              "valor": "Pode diminuir o desejo ou atrasar o orgasmo"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "paracetamol",
+      "nome": "Paracetamol",
+      "subtitulo": "Analgésico e antitérmico",
+      "principioAtivo": "Paracetamol",
+      "categoria": "analgesico",
+      "tipoVenda": "livre",
+      "tarja": "sem_tarja",
+      "resumo": {
+        "paraQueServe": "Reduz dores leves a moderadas e febre."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve o Paracetamol?",
+          "texto": "O paracetamol é um dos remédios mais usados pra dor e febre. Ele alivia dor de cabeça, dor muscular, dor de dente e outras dores leves a moderadas, e ajuda a baixar a febre. Ao contrário dos anti-inflamatórios, ele quase não irrita o estômago.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "O principal cuidado é não passar da dose. Muitos antigripais também têm paracetamol, e somar os dois pode lesar o fígado."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Comprimido de 500 mg ou 750 mg e gotas"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Adultos e crianças, dose pela idade, peso e apresentação"
+            }
+          ],
+          "nota": "Febre por mais de 3 dias ou dor por mais de 5 dias? Procura um médico."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "É um remédio seguro na dose certa, mas o fígado é o ponto de atenção.",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você tem alergia ao paracetamol ou doença grave no fígado. Em excesso, ele pode causar lesão grave no fígado."
+          },
+          "infos": [
+            {
+              "rotulo": "Álcool",
+              "valor": "Quem bebe com frequência tem mais risco pro fígado"
+            },
+            {
+              "rotulo": "Outros remédios",
+              "valor": "Confere se não tem paracetamol em outro remédio"
+            },
+            {
+              "rotulo": "Gravidez",
+              "valor": "É uma das opções, mas usa com orientação"
+            }
+          ],
+          "nota": null
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Na dose certa, quase sempre é bem tolerado.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Pele ou olhos amarelados, xixi escuro, enjoo e dor do lado direito da barriga depois de tomar demais, ou manchas e bolhas na pele."
+          },
+          "infos": [
+            {
+              "rotulo": "Raros",
+              "valor": "Enjoo e reações alérgicas na pele"
+            },
+            {
+              "rotulo": "Overdose",
+              "valor": "Pode lesar o fígado, mesmo sem sintomas no começo"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Tomou demais? Procura atendimento na hora"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "lactopurga",
+      "nome": "Lactopurga",
+      "subtitulo": "Laxante estimulante",
+      "principioAtivo": "Bisacodil",
+      "categoria": "gastro",
+      "tipoVenda": "livre",
+      "tarja": "sem_tarja",
+      "resumo": {
+        "paraQueServe": "Estimula o intestino e facilita a evacuação."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve o Lactopurga?",
+          "texto": "O Lactopurga tem bisacodil, que estimula os movimentos do intestino. Ele é usado pra aliviar a prisão de ventre e, em situações específicas, no preparo do intestino pra exames, conforme orientação. O efeito costuma aparecer algumas horas depois.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Não é recomendado usar laxante estimulante direto, por conta própria. Precisar dele com frequência é sinal de que a causa da prisão de ventre deve ser investigada."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Comprimido de 5 mg"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Idade mínima depende da apresentação: segue a bula"
+            }
+          ],
+          "nota": "Água, fibras e atividade física ajudam muito o intestino a funcionar sozinho."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "Estimular o intestino na hora errada pode ser perigoso. Confere antes:",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você tem obstrução no intestino, dor na barriga sem causa conhecida, apendicite, doença inflamatória do intestino em crise ou desidratação forte."
+          },
+          "infos": [
+            {
+              "rotulo": "Dor na barriga",
+              "valor": "Dor sem explicação: não usa"
+            },
+            {
+              "rotulo": "Crianças",
+              "valor": "Só com orientação médica"
+            },
+            {
+              "rotulo": "Gravidez",
+              "valor": "Só com orientação médica"
+            }
+          ],
+          "nota": null
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Como ele mexe com o intestino, os efeitos são quase todos na barriga.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Dor forte na barriga, sangue nas fezes, diarreia que não para ou fraqueza e tontura por desidratação."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Cólica, dor na barriga e diarreia"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Enjoo e desconforto"
+            },
+            {
+              "rotulo": "Uso longo",
+              "valor": "Pode desidratar e deixar o intestino preguiçoso"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "tadalafila",
+      "nome": "Tadalafila",
+      "subtitulo": "Para disfunção erétil e próstata",
+      "principioAtivo": "Tadalafila",
+      "categoria": "outro",
+      "tipoVenda": "receita",
+      "tarja": "vermelha",
+      "resumo": {
+        "paraQueServe": "Ajuda na ereção quando há estímulo sexual."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve a Tadalafila?",
+          "texto": "A tadalafila aumenta o fluxo de sangue no pênis quando existe estímulo sexual, facilitando a ereção. Algumas apresentações também tratam os sintomas da próstata aumentada (hiperplasia prostática benigna) e, em doses específicas, a hipertensão pulmonar. O efeito pode durar até 36 horas.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Ela não aumenta o desejo sexual por si só: precisa de estímulo sexual pra produzir a ereção."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Comprimido de 5 mg e 20 mg"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Adultos, conforme avaliação médica"
+            }
+          ],
+          "nota": "Ereção que dura mais de 4 horas é emergência: procura atendimento."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "A tadalafila mexe com a pressão, então tem combinações perigosas.",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você usa nitrato (como isossorbida ou nitroglicerina) ou riociguate, ou tem doença no coração que impede atividade sexual. A combinação pode baixar a pressão perigosamente."
+          },
+          "infos": [
+            {
+              "rotulo": "Coração",
+              "valor": "Infarto ou AVC recente exige avaliação"
+            },
+            {
+              "rotulo": "Álcool",
+              "valor": "Muito álcool junto pode baixar a pressão"
+            },
+            {
+              "rotulo": "Outros remédios",
+              "valor": "Remédio pra pressão ou próstata: avisa o médico"
+            }
+          ],
+          "nota": null
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Os efeitos costumam ser leves e passam em algumas horas.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Ereção que dura mais de 4 horas, perda súbita da visão ou da audição, dor no peito ou desmaio."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Dor de cabeça, rosto vermelho e indigestão"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Dor nas costas, dor muscular, nariz entupido e tontura"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Avisar o médico se incomodar"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "torsilax",
+      "nome": "Torsilax",
+      "subtitulo": "Anti-inflamatório e relaxante muscular",
+      "principioAtivo": "Diclofenaco sódico + paracetamol + carisoprodol + cafeína",
+      "categoria": "anti_inflamatorio",
+      "tipoVenda": "receita",
+      "tarja": "vermelha",
+      "resumo": {
+        "paraQueServe": "Alivia dores, inflamações e desconfortos musculares."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve o Torsilax?",
+          "texto": "O Torsilax junta quatro substâncias: o diclofenaco (anti-inflamatório), o paracetamol (pra dor), o carisoprodol (que relaxa os músculos) e a cafeína. É usado em dores musculares e nas articulações, torcicolo, dor nas costas e contraturas, quando há dor com inflamação e músculo travado.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Pode dar sono e irritar o estômago. Evita álcool e não junta com outros remédios que tenham paracetamol ou anti-inflamatório sem orientação."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Comprimido com 50 mg + 300 mg + 125 mg + 30 mg"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Adultos, conforme prescrição e avaliação médica"
+            }
+          ],
+          "nota": "Por ter anti-inflamatório e relaxante muscular, o uso deve ser curto."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "Por juntar várias substâncias, o Torsilax soma as restrições de cada uma.",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você tem alergia aos componentes, úlcera ou sangramento no estômago, ou insuficiência grave no coração, nos rins ou no fígado."
+          },
+          "infos": [
+            {
+              "rotulo": "Gravidez",
+              "valor": "Não usar sem orientação médica"
+            },
+            {
+              "rotulo": "Asma",
+              "valor": "Quem tem crise de asma com anti-inflamatório não usa"
+            },
+            {
+              "rotulo": "Direção",
+              "valor": "Pode dar sono: evita dirigir"
+            }
+          ],
+          "nota": null
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Os efeitos mais comuns são no estômago e o sono, por causa do relaxante muscular.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Fezes pretas, vômito com sangue, pele ou olhos amarelados, inchaço no rosto ou falta de ar."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Enjoo, dor na barriga, azia e sonolência"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Tontura e agitação"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Parar o remédio e procurar ajuda"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "neosoro",
+      "nome": "Neosoro",
+      "subtitulo": "Descongestionante nasal",
+      "principioAtivo": "Cloridrato de nafazolina",
+      "categoria": "outro",
+      "tipoVenda": "livre",
+      "tarja": "sem_tarja",
+      "resumo": {
+        "paraQueServe": "Alivia por pouco tempo o nariz entupido."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve o Neosoro?",
+          "texto": "O Neosoro tem nafazolina, que contrai os vasos de dentro do nariz e desincha a mucosa. Assim o nariz desentope rapidinho. Ele alivia a congestão de gripe, resfriado, rinite e sinusite, mas não trata a causa.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "O uso prolongado causa efeito rebote: o nariz fica ainda mais entupido e a pessoa acaba dependendo do remédio. Usa pelo menor tempo possível, conforme a bula."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Gotas nasais (versão adulto)"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Adultos e pessoas na faixa etária indicada na bula"
+            }
+          ],
+          "nota": "Nunca usa a versão adulto em criança pequena: pode ser perigoso."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "A nafazolina age nos vasos do corpo inteiro, não só no nariz. Por isso, tem gente que precisa de cuidado.",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você tem alergia à nafazolina ou glaucoma de ângulo fechado. Quem tem pressão alta, doença no coração, diabetes ou hipertireoidismo precisa de avaliação antes."
+          },
+          "infos": [
+            {
+              "rotulo": "Crianças",
+              "valor": "Versão adulto não é pra crianças pequenas"
+            },
+            {
+              "rotulo": "Pressão",
+              "valor": "Pode subir a pressão"
+            },
+            {
+              "rotulo": "IMAO",
+              "valor": "Não usar com antidepressivo do tipo IMAO"
+            }
+          ],
+          "nota": null
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Os efeitos mais comuns ficam no próprio nariz.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Coração disparado, dor de cabeça forte, sonolência muito forte (principalmente em criança) ou pressão muito alta."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Ardência, irritação, ressecamento e espirros"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Palpitação e aumento da pressão"
+            },
+            {
+              "rotulo": "Uso longo",
+              "valor": "Nariz mais entupido (efeito rebote)"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "estomazil",
+      "nome": "Estomazil",
+      "subtitulo": "Antiácido",
+      "principioAtivo": "Bicarbonato de sódio + carbonato de sódio + ácido cítrico",
+      "categoria": "gastro",
+      "tipoVenda": "livre",
+      "tarja": "sem_tarja",
+      "resumo": {
+        "paraQueServe": "Alivia por pouco tempo a azia e a acidez do estômago."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve o Estomazil?",
+          "texto": "O Estomazil é um antiácido efervescente: dissolvido na água, ele forma uma bebida que neutraliza o ácido do estômago. Por isso o alívio da azia e da queimação é rápido, mas também passa rápido. Ele não trata a causa da acidez.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Contém sódio e não deve ser usado em excesso. Azia frequente ou que não passa precisa de avaliação médica."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Pó efervescente (envelope)"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Adultos, conforme as orientações da bula"
+            }
+          ],
+          "nota": "Precisa dele quase todo dia? Isso não é normal: procura um médico."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "O principal ponto de atenção é o sódio da fórmula.",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você precisa controlar o sal (sódio) por pressão alta, doença nos rins ou no coração, ou tem retenção de líquido. Consulta um profissional antes."
+          },
+          "infos": [
+            {
+              "rotulo": "Pressão",
+              "valor": "O sódio pode subir a pressão"
+            },
+            {
+              "rotulo": "Rins",
+              "valor": "Doença nos rins exige avaliação"
+            },
+            {
+              "rotulo": "Outros remédios",
+              "valor": "Pode atrapalhar a absorção de outros remédios"
+            }
+          ],
+          "nota": null
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Em uso ocasional, geralmente não dá nada além de alguns arrotos.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Dor forte no estômago, vômito com sangue, fezes pretas ou inchaço no corpo."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Gases, arrotos e barriga estufada"
+            },
+            {
+              "rotulo": "Uso excessivo",
+              "valor": "Pode alterar os sais e o equilíbrio do sangue"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Parar e procurar um médico se persistir"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "zolpidem",
+      "nome": "Zolpidem",
+      "subtitulo": "Hipnótico (indutor do sono)",
+      "principioAtivo": "Hemitartarato de zolpidem",
+      "categoria": "outro",
+      "tipoVenda": "receita",
+      "tarja": "preta",
+      "resumo": {
+        "paraQueServe": "Auxilia no tratamento de curta duração da insônia."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve o Zolpidem?",
+          "texto": "O zolpidem é um remédio pra dormir que age rápido no cérebro, ajudando a pegar no sono. Ele é indicado pra insônia por pouco tempo, enquanto se trata a causa. É um remédio controlado: a farmácia só vende com receita especial, que fica retida.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Pode causar dependência, esquecimento e comportamentos durante o sono sem plena consciência, como andar ou comer dormindo. Não junta com álcool e não dirige depois de tomar."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Comprimido de 5 mg, 6,25 mg, 10 mg e 12,5 mg"
+            },
+            {
+              "rotulo": "Receita",
+              "valor": "Receita azul (B1), retida na farmácia"
+            }
+          ],
+          "nota": "No dia seguinte, ele ainda pode deixar sono e atrapalhar a atenção, inclusive ao dirigir."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "Por agir direto no sistema nervoso, o zolpidem tem restrições importantes.",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você tem alergia ao zolpidem, insuficiência respiratória grave, apneia do sono, doença grave no fígado ou já teve comportamento estranho dormindo depois de tomar."
+          },
+          "infos": [
+            {
+              "rotulo": "Álcool",
+              "valor": "Nunca junta: aumenta muito o efeito"
+            },
+            {
+              "rotulo": "Idosos",
+              "valor": "Mais risco de queda: costuma precisar de dose menor"
+            },
+            {
+              "rotulo": "Gravidez",
+              "valor": "Só com acompanhamento médico"
+            }
+          ],
+          "nota": null
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "O mais comum é sono e moleza no dia seguinte, principalmente com dose maior.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Andar, comer ou dirigir dormindo sem lembrar depois, confusão, alucinações ou pensamentos de se machucar."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Sonolência, tontura e dor de cabeça"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Esquecimento, confusão e pesadelos"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Falar com o médico, sem parar por conta própria"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "venvanse",
+      "nome": "Venvanse",
+      "subtitulo": "Psicoestimulante",
+      "principioAtivo": "Dimesilato de lisdexanfetamina",
+      "categoria": "outro",
+      "tipoVenda": "receita",
+      "tarja": "preta",
+      "resumo": {
+        "paraQueServe": "Trata o TDAH e, em adultos, o transtorno de compulsão alimentar."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve o Venvanse?",
+          "texto": "O Venvanse é um estimulante do sistema nervoso central. Ele ajuda no tratamento do TDAH (transtorno de déficit de atenção e hiperatividade) e, em adultos, do transtorno de compulsão alimentar, conforme as indicações aprovadas. É um remédio controlado, vendido só com receita amarela, que fica retida.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "Pode causar dependência e deve ser usado exatamente como prescrito. Pode tirar o apetite, atrapalhar o sono e aumentar a pressão e os batimentos do coração."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Cápsula de 30, 50 e 70 mg"
+            },
+            {
+              "rotulo": "Receita",
+              "valor": "Receita amarela (A3), retida na farmácia"
+            }
+          ],
+          "nota": "O tratamento do TDAH costuma juntar o remédio com acompanhamento psicológico."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "Por ser um estimulante, o Venvanse mexe com o coração e com o humor.",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você tem alergia ao medicamento ou usa (ou usou nos últimos 14 dias) um antidepressivo do tipo IMAO. Problemas no coração ou psiquiátricos precisam de avaliação cuidadosa."
+          },
+          "infos": [
+            {
+              "rotulo": "Coração",
+              "valor": "Doença no coração ou pressão alta exigem avaliação"
+            },
+            {
+              "rotulo": "Álcool",
+              "valor": "Evitar durante o tratamento"
+            },
+            {
+              "rotulo": "Gravidez",
+              "valor": "Só com acompanhamento médico"
+            }
+          ],
+          "nota": null
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Os efeitos mais comuns aparecem no começo e muitas vezes diminuem com o tempo.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Dor no peito, desmaio, coração muito acelerado, alucinações, agitação muito forte ou dedos frios e arroxeados."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Falta de apetite, perda de peso, insônia e boca seca"
+            },
+            {
+              "rotulo": "Às vezes",
+              "valor": "Ansiedade, irritabilidade e dor de cabeça"
+            },
+            {
+              "rotulo": "Coração",
+              "valor": "Pode aumentar a pressão e os batimentos"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    },
+    {
+      "id": "cimetidina",
+      "nome": "Cimetidina",
+      "subtitulo": "Antiulceroso / redutor de acidez",
+      "principioAtivo": "Cimetidina",
+      "categoria": "gastro",
+      "tipoVenda": "receita",
+      "tarja": "vermelha",
+      "resumo": {
+        "paraQueServe": "Reduz a produção de ácido no estômago."
+      },
+      "abas": {
+        "indicacoes": {
+          "pergunta": "Pra que serve a Cimetidina?",
+          "texto": "A cimetidina bloqueia um dos sinais que mandam o estômago produzir ácido. Com menos ácido, ela ajuda a tratar úlceras no estômago e no duodeno, azia e outras situações com excesso de acidez.",
+          "alerta": {
+            "titulo": "Observações importantes",
+            "texto": "A cimetidina pode interagir com vários remédios e mudar o efeito deles. Conta pro médico tudo o que você usa."
+          },
+          "infos": [
+            {
+              "rotulo": "Apresentação",
+              "valor": "Comprimido de 200 mg e 400 mg"
+            },
+            {
+              "rotulo": "Pra quem",
+              "valor": "Adultos e, em alguns casos, crianças, conforme orientação"
+            }
+          ],
+          "nota": "Azia que volta toda hora merece consulta: pode ser sinal de algo que precisa de investigação."
+        },
+        "contraindicacoes": {
+          "pergunta": "Quem não deve tomar?",
+          "texto": "A cimetidina é bem conhecida, mas exige atenção com outros remédios.",
+          "alerta": {
+            "titulo": "Não tomar se...",
+            "texto": "Você já teve alergia à cimetidina ou a algum componente da fórmula."
+          },
+          "infos": [
+            {
+              "rotulo": "Rins e fígado",
+              "valor": "Podem exigir ajuste da dose"
+            },
+            {
+              "rotulo": "Interações",
+              "valor": "Anticoagulante, fenitoína e outros: avisa o médico"
+            },
+            {
+              "rotulo": "Gravidez",
+              "valor": "Só com orientação médica"
+            }
+          ],
+          "nota": null
+        },
+        "efeitosColaterais": {
+          "pergunta": "Pode dar algum efeito colateral?",
+          "texto": "Geralmente é bem tolerada e os efeitos são leves.",
+          "alerta": {
+            "titulo": "Procura um médico se aparecer",
+            "texto": "Confusão mental (principalmente em idosos), manchas ou bolhas na pele, coração fora do ritmo ou pele amarelada."
+          },
+          "infos": [
+            {
+              "rotulo": "Mais comuns",
+              "valor": "Dor de cabeça, tontura, diarreia e prisão de ventre"
+            },
+            {
+              "rotulo": "Uso longo",
+              "valor": "Raramente, aumento das mamas em homens"
+            },
+            {
+              "rotulo": "O que fazer",
+              "valor": "Avisar o médico se incomodar"
+            }
+          ],
+          "nota": "Essa lista não tem tudo. A bula oficial é a referência completa."
+        }
+      },
+      "fonte": "https://consultas.anvisa.gov.br/#/bulario/",
+      "controle": {
+        "responsavel": "Equipe MedGuia",
+        "status": "rascunho",
+        "revisadoPor": null
+      }
+    }
+  ]
+}
