@@ -20,7 +20,7 @@ npm run validar:mock  # valida o mock contra o JSON Schema
 
 ## Mock de dados
 
-Enquanto não há API, o catálogo vem de [`mocks/remedios.mock-data.json`](mocks/remedios.mock-data.json): os 30 remédios levantados pela equipe, completados e ajustados ao schema. O [`mocks/remedios.mock.json`](mocks/remedios.mock.json) continua como mock de teste de layout (casos-limite abaixo). `npm run validar:mock` valida os dois.
+Enquanto não há API, o catálogo vem de [`mocks/remedios.mock-data.json`](mocks/remedios.mock-data.json): os remédios levantados pela equipe, completados e ajustados ao schema. O [`mocks/remedios.mock.json`](mocks/remedios.mock.json) continua como mock de teste de layout (casos-limite abaixo). `npm run validar:mock` valida os dois.
 
 - [`mocks/remedios.schema.json`](mocks/remedios.schema.json): JSON Schema (draft 2020-12) com limites de caracteres, enums e regras de coerência (venda livre ⇒ sem tarja, antibiótico ⇒ tarja vermelha com retenção).
 - [`mocks/validar-mock.js`](mocks/validar-mock.js): valida o mock com `ajv` e confere ainda `total` e `id` único.
